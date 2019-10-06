@@ -78,7 +78,7 @@ export const words = [
   { en: ['CD player'], cs: ['CD přehrávač'] },
   { en: ['coffee table'], cs: ['konferenční stolek'] },
   { en: ['couch', 'sofa'], cs: ['pohovka'] },
-  { en: ['curshion'], cs: ['polštářek'] },
+  { en: ['cushion'], cs: ['polštářek'] },
   { en: ['dinning table'], cs: ['jídelní stůl'] },
   { en: ['fireplace'], cs: ['krb'] },
   { en: ['living room', 'sitting room'], cs: ['obývací pokoj'] },
