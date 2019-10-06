@@ -12,7 +12,7 @@ export const words = [
   { en: ['downstairs'], cs: ['přízemí'] },
   { en: ['drive'], cs: ['příjezdová cesta'] },
   { en: ['fence'], cs: ['plot'] },
-  { en: ['fllor'], cs: ['patro', 'podlaha'] },
+  { en: ['floor'], cs: ['patro', 'podlaha'] },
   { en: ['garage'], cs: ['garáž'] },
   { en: ['underground garage'], cs: ['podzemní garáž'] },
   { en: ['garden'], cs: ['zahrada'] },
