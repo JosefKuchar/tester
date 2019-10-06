@@ -173,7 +173,7 @@ export const words = [
   { en: ['bright'], cs: ['jasný'] },
   { en: ['comforable'], cs: ['pohodlný'] },
   { en: ['uncomfortable'], cs: ['nepohodlný'] },
-  { en: ['cosy'], cs: ['útelný'] },
+  { en: ['cosy'], cs: ['útulný'] },
   { en: ['fitted kitchen'], cs: ['kuchyně na míru'] },
   { en: ['furnished'], cs: ['zařízený'] },
   { en: ['unfunished'], cs: ['nezařízený'] },
