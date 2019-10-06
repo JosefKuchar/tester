@@ -136,7 +136,7 @@ export const words = [
   { en: ['tenant'], cs: ['nájemník'] },
   { en: ['to let'], cs: ['k pronájmu'] },
   { en: ['can afford something', 'could afford something'], cs: ['moci si něco dovolit (finančně)'] },
-  { en: ['find aplace of your own'], cs: ['najít si vlastní bydlení'] },
+  { en: ['find a place of your own'], cs: ['najít si vlastní bydlení'] },
   { en: ['let a flat'], cs: ['pronajmout byt'] },
   { en: ['pay in advance'], cs: ['zaplatit předem'] },
   { en: ['pay the bills'], cs: ['platit poplatky'] },
