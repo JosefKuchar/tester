@@ -176,7 +176,7 @@ export const words = [
   { en: ['cosy'], cs: ['útulný'] },
   { en: ['fitted kitchen'], cs: ['kuchyně na míru'] },
   { en: ['furnished'], cs: ['zařízený'] },
-  { en: ['unfunished'], cs: ['nezařízený'] },
+  { en: ['unfurnished'], cs: ['nezařízený'] },
   { en: ['in bad condition'], cs: ['ve špatném stavu'] },
   { en: ['in good condition'], cs: ['v dobrém stavu'] },
   { en: ['modern'], cs: ['moderní'] },
