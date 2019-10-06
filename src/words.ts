@@ -171,7 +171,7 @@ export const words = [
   { en: ['ancient'], cs: ['starožitný', 'starodávný'] },
   { en: ['bare'], cs: ['holý'] },
   { en: ['bright'], cs: ['jasný'] },
-  { en: ['comforable'], cs: ['pohodlný'] },
+  { en: ['comfortable'], cs: ['pohodlný'] },
   { en: ['uncomfortable'], cs: ['nepohodlný'] },
   { en: ['cosy'], cs: ['útulný'] },
   { en: ['fitted kitchen'], cs: ['kuchyně na míru'] },
