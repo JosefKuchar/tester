@@ -130,7 +130,7 @@ export const words = [
   { en: ['landlord'], cs: ['domácí', 'majitel bytu'] },
   { en: ['per month'], cs: ['měsíčně'] },
   { en: ['per week'], cs: ['týdně'] },
-  { en: ['reasonable price'], cs: ['přijatelná central'] },
+  { en: ['reasonable price'], cs: ['přijatelná cena'] },
   { en: ['rent'], cs: ['nájem'] },
   { en: ['roommate'], cs: ['spolubydlící (v pokoji)'] },
   { en: ['tenant'], cs: ['nájemník'] },
