@@ -95,7 +95,7 @@ export const words = [
   { en: ['electric kettle'], cs: ['varná konvice'] },
   { en: ['kitchen'], cs: ['kuchyně'] },
   { en: ['kitchen table'], cs: ['kuchyňský stůl'] },
-  { en: ['microwave overn'], cs: ['mikrovlnná trouba'] },
+  { en: ['microwave oven'], cs: ['mikrovlnná trouba'] },
   { en: ['oven'], cs: ['trouba'] },
   { en: ['running water'], cs: ['tekoucí voda'] },
   { en: ['sink'], cs: ['dřez'] },
