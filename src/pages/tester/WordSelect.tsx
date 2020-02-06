@@ -12,26 +12,15 @@ interface IWord {
   words?: IWord[],
 }
 
-function tree(array: IWord[]) {
-  array.forEach(node => {
-    if (typeof node.name !== 'undefined') {
-      console.log(node.name);
-    }
-
-    if (typeof node.words !== 'undefined') {
-      tree(node.words);
-    }
-  });
+interface IWordSelectProps {
+  updateIncluded: (uuid: string, state?: boolean) => void;
+  included: string[];
 }
 
-export class WordSelect extends React.Component<{}, {}> {
-  componentDidMount() {
-    console.log(this.props.children);
-  }
-
+export class WordSelect extends React.Component<IWordSelectProps, {}> {
   render() {
     return <Card><CardContent>
-      {words.map((chapter, i) => <SelectNode key={i} margin={0} node={chapter} />)}
+      {words.map((chapter, i) => <SelectNode updateIncluded={this.props.updateIncluded} included={this.props.included} key={i} margin={0} node={chapter} />)}
     </CardContent></Card>;
   }
 }

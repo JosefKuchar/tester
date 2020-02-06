@@ -11,6 +11,7 @@ interface IWord {
   cs?: string[],
   audio?: number[],
   words?: IWord[],
+  uuid?: string;
 }
 
 interface ITesterState {
@@ -18,6 +19,7 @@ interface ITesterState {
   current: IWord;
   correct: string;
   included: string[];
+  list: IWord[];
 }
 
 export class TesterPage extends React.Component<{}, ITesterState> {
@@ -25,7 +27,8 @@ export class TesterPage extends React.Component<{}, ITesterState> {
     input: '',
     current: { en: ['foo'], cs: ['bar'] } as IWord,
     correct: '',
-    included: [],
+    included: [] as string[],
+    list: [] as IWord[]
   };
 
   handleInput(e: any) {
@@ -42,6 +45,55 @@ export class TesterPage extends React.Component<{}, ITesterState> {
     }
   }
 
+  updateIncluded(uuid: string, state?: boolean) {
+    if (typeof state === 'undefined') {
+      state = !this.state.included.includes(uuid);
+    }
+
+    if (state) {
+      // Add to included
+      this.setState({
+        ...this.state,
+        included: [...this.state.included, uuid]
+      }, this.buildList);
+    } else {
+      // Remove from included
+      this.setState({
+        ...this.state,
+        included: this.state.included.filter(element => element !== uuid)
+      }, this.buildList);
+    }
+  }
+
+  updateChildren(array: IWord[]) {
+    array.forEach(node => {
+      if (typeof node.words !== 'undefined') {
+        this.updateIncluded(node.uuid!, true);
+        this.updateChildren(node.words);
+      }
+    });
+  }
+
+  tree(array: IWord[]) {
+    let list: any[] = [];
+
+    array.forEach((node, index) => {
+      if (typeof node.cs !== 'undefined') {
+        list.push(node);
+      }
+
+      if (typeof node.words !== 'undefined' && this.state.included.includes(node.uuid!)) {
+        list.push(...this.tree(node.words));
+      }
+    });
+
+    return list;
+  }
+
+  buildList() {
+    this.setState({ ...this.state, list: this.tree(words) }, this.selectRandomWord);
+  }
+
   handleChange(e: any) {
     this.setState({
       ...this.state,
@@ -50,17 +102,25 @@ export class TesterPage extends React.Component<{}, ITesterState> {
   }
 
   componentDidMount() {
-    console.log(words);
     this.selectRandomWord();
   }
 
   selectRandomWord() {
-    this.setState({
-      ...this.state,
-      input: '',
-      correct: '',
-      current: words[0].words[Math.floor(Math.random() * words[0].words.length)]
-    });
+    if (this.state.list.length === 0) {
+      this.setState({
+        ...this.state,
+        input: '',
+        correct: '',
+        current: { en: [''], cs: ['Select some words from the list below!'] } as IWord
+      });
+    } else {
+      this.setState({
+        ...this.state,
+        input: '',
+        correct: '',
+        current: this.state.list[Math.floor(Math.random() * this.state.list.length)]
+      });
+    }
   }
 
   render() {
@@ -74,7 +134,7 @@ export class TesterPage extends React.Component<{}, ITesterState> {
           </CardContent>
         </Card>
         <Typography variant="h4" gutterBottom>Words included</Typography>
-        <WordSelect></WordSelect>
+        <WordSelect updateIncluded={this.updateIncluded.bind(this)} included={this.state.included}></WordSelect>
       </Page>
     );
   }

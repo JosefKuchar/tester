@@ -252,7 +252,7 @@ export let words = [
           },
           { en: ['independent school'], cs: ['soukromá škola'], audio: [12] },
           {
-            en: ['kindergarden', 'nusery school'],
+            en: ['kindergarden', 'nursery school'],
             cs: ['mateřská škola'],
             audio: [13]
           },

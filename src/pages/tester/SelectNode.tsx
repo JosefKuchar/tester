@@ -9,49 +9,32 @@ interface IWord {
   audio?: number[];
   words?: IWord[];
   checked?: boolean;
+  uuid?: string;
 }
 
 interface ISelectNodeProps {
   node: IWord;
   margin: number;
-  parentChecked?: boolean;
+  updateIncluded: (uuid: string, state?: boolean) => void;
+  included: string[];
 }
 
-interface ISelectNodeState {
-  checked: boolean;
-}
-
-export class SelectNode extends React.Component<ISelectNodeProps, ISelectNodeState> {
-  state = {
-    checked: false
-  };
-
+export class SelectNode extends React.Component<ISelectNodeProps, {}> {
   onClick(e: any) {
-    this.setState({ ...this.state, checked: e.target.checked });
-    this.forceUpdate();
-  }
-
-  update() {
-
-  }
-
-  componentDidUpdate(prevProps: ISelectNodeProps) {
-    if (prevProps.parentChecked !== this.props.parentChecked) {
-      this.setState({ ...this.state, checked: this.props.parentChecked! });
-    }
+    this.props.updateIncluded(this.props.node.uuid!);
   }
 
   render() {
     const children =
       typeof this.props.node.words![0].name !== 'undefined'
         ? this.props.node.words!.map((node, i) => (
-          <SelectNode key={i} node={node} margin={this.props.margin + 20} parentChecked={this.state.checked} />
+          <SelectNode included={this.props.included} updateIncluded={this.props.updateIncluded} key={i} node={node} margin={this.props.margin + 20} />
         ))
         : [];
     return (
       <div>
         <FormControlLabel
-          control={<Checkbox checked={this.state.checked} onChange={this.onClick.bind(this)}></Checkbox>}
+          control={<Checkbox checked={this.props.included.includes(this.props.node.uuid as string)} onChange={this.onClick.bind(this)}></Checkbox>}
           label={this.props.node.name}
           style={{ marginLeft: this.props.margin }}
         ></FormControlLabel>
