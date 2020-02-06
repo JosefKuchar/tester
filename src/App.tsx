@@ -1,13 +1,41 @@
 import React from 'react';
-import { Tester } from './Tester'
-import Container from '@material-ui/core/Container'
+import Container from '@material-ui/core/Container';
+import ResponsiveDrawer from './ResponsiveDrawer';
+import {
+  BrowserRouter as Router,
+  Switch,
+  Route,
+  Link
+} from "react-router-dom";
 
-const App: React.FC = () => {
-  return (
-    <Container style={{ textAlign: 'center'}}>
-      <Tester></Tester>
-    </Container>
-  );
+import { AboutPage, WordbankPage, NotFoundPage, TesterPage } from './pages';
+
+export class App extends React.Component<{}, {}> {
+  render() {
+    return (
+      <Router>
+        <ResponsiveDrawer title="New Maturita Activator Words">
+          <Container /*style={{ textAlign: 'center' }} */>
+            <Switch>
+              <Route exact path="/about">
+                <AboutPage></AboutPage>
+              </Route>
+              <Route exact path="/wordbank">
+                <WordbankPage></WordbankPage>
+              </Route>
+              <Route exact path="/">
+                <TesterPage></TesterPage>
+              </Route>
+              <Route path="*">
+                <NotFoundPage></NotFoundPage>
+              </Route>
+            </Switch>
+
+          </Container>
+        </ResponsiveDrawer>
+      </Router>
+    );
+  }
 }
 
 export default App;
