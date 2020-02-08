@@ -12,6 +12,7 @@ interface IWord {
   audio?: number[],
   words?: IWord[],
   uuid?: string;
+  parent?: IWord;
 }
 
 interface ITesterState {
@@ -50,30 +51,53 @@ export class TesterPage extends React.Component<{}, ITesterState> {
       state = !this.state.included.includes(uuid);
     }
 
+    let uuids = [uuid];
+    this.updateChildren(words, uuid, uuids, false);
+    let current = this.findNode(words, uuid) as IWord;
+    while (typeof current.parent !== 'undefined') {
+      uuids.push(current.parent.uuid!);
+      current = current.parent;
+    }
     if (state) {
       // Add to included
       this.setState({
         ...this.state,
-        included: [...this.state.included, uuid]
+        included: [...this.state.included, ...uuids]
       }, this.buildList);
     } else {
       // Remove from included
       this.setState({
         ...this.state,
-        included: this.state.included.filter(element => element !== uuid)
+        included: this.state.included.filter(element => !uuids.includes(element))
       }, this.buildList);
     }
   }
 
-  updateChildren(array: IWord[]) {
+  updateChildren(array: IWord[], uuid: string, uuids: string[], update: boolean) {
     array.forEach(node => {
       if (typeof node.words !== 'undefined') {
-        this.updateIncluded(node.uuid!, true);
-        this.updateChildren(node.words);
+        if (update) {
+          uuids.push(node.uuid!);
+        }
+        let nextUpdate = update || node.uuid! === uuid;
+        this.updateChildren(node.words, uuid, uuids, nextUpdate);
       }
     });
   }
 
+  findNode(array: IWord[], uuid: string): null | IWord {
+    let found: null | IWord = null;
+    array.forEach(node => {
+      if (typeof node.words !== 'undefined') {
+        if (node.uuid === uuid) {
+          found = node;
+          return;
+        }
+        found = found || this.findNode(node.words, uuid);
+      }
+    });
+    return found;
+  }
   tree(array: IWord[]) {
     let list: any[] = [];
 

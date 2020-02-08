@@ -5,7 +5,6 @@ import {
   BrowserRouter as Router,
   Switch,
   Route,
-  Link
 } from "react-router-dom";
 
 import { AboutPage, WordbankPage, NotFoundPage, TesterPage } from './pages';
@@ -13,9 +12,9 @@ import { AboutPage, WordbankPage, NotFoundPage, TesterPage } from './pages';
 export class App extends React.Component<{}, {}> {
   render() {
     return (
-      <Router>
+      <Router basename="/tester" >
         <ResponsiveDrawer title="New Maturita Activator Words">
-          <Container /*style={{ textAlign: 'center' }} */>
+          <Container>
             <Switch>
               <Route exact path="/about">
                 <AboutPage></AboutPage>
@@ -30,7 +29,6 @@ export class App extends React.Component<{}, {}> {
                 <NotFoundPage></NotFoundPage>
               </Route>
             </Switch>
-
           </Container>
         </ResponsiveDrawer>
       </Router>

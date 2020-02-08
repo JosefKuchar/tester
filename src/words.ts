@@ -694,6 +694,414 @@ export let words = [
         ]
       }
     ]
+  },
+  {
+    name: 'Chapter 4',
+    words: [
+      {
+        name: 'Jobs',
+        words: [
+          { en: ['accountant'], cs: ['účetní'] },
+          { en: ['au pair'], cs: ['au pair'] },
+          { en: ['babysitter'], cs: ['někdo na hlídání dětí', 'chůva'] },
+          { en: ['beautician'], cs: ['kosmetička'] },
+          { en: ['bus driver'], cs: ['řidič autobusu'] },
+          { en: ['car mechanic'], cs: ['automachanik'] },
+          { en: ['chef'], cs: ['šéfkuchař'] },
+          { en: ['chemist', 'pharmacist'], cs: ['farmaceut'] },
+          { en: ['cleaner'], cs: ['uklízečka'] },
+          { en: ['computer programmer'], cs: ['programátor'] },
+          { en: ['cook'], cs: ['kuchař'] },
+          { en: ['dentist'], cs: ['zubař'] },
+          { en: ['doctor'], cs: ['lékař'] },
+          { en: ['dressmaker'], cs: ['švadlena', 'dámský krejčí'] },
+          { en: ['driving instructor'], cs: ['instruktor autoškoly'] },
+          { en: ['economist'], cs: ['ekonom'] },
+          { en: ['electrician'], cs: ['elektrikář'] },
+          { en: ['engineer'], cs: ['inženýr', 'technik'] },
+          { en: ['executive'], cs: ['vedoucí úředník', 'manažer'] },
+          { en: ['farmer'], cs: ['rolník', 'farmář'] },
+          { en: ['fashion designer'], cs: ['módní návrhář'] },
+          { en: ['film director'], cs: ['režisér'] },
+          { en: ['firefighter'], cs: ['hasič'] },
+          { en: ['flight attentant'], cs: ['letuška', 'stevard'] },
+          { en: ['fruit picker'], cs: ['česač ovoce'] },
+          { en: ['hairdresser'], cs: ['kadeřník'] },
+          { en: ['housewife'], cs: ['hospodyně', 'žena v domácnosti'] },
+          { en: ['instructor'], cs: ['instruktor'] },
+          { en: ['IT specialist'], cs: ['informatik'] },
+          { en: ['journalist'], cs: ['novinář'] },
+          { en: ['lawyer'], cs: ['právník'] },
+          { en: ['lecturer'], cs: ['lektor'] },
+          { en: ['librarian'], cs: ['knihovník'] },
+          {
+            en: ['lollipop lady'],
+            cs: [
+              'žena',
+              ' která dohlíží na bezpečnost školáků na přechodu při cestě do školy'
+            ]
+          },
+          {
+            en: ['lollipop man'],
+            cs: [
+              'muž',
+              ' který dohlíží na bezpečnost školáků na přechodu při cestě do školy'
+            ]
+          },
+          { en: ['manager'], cs: ['vedoucí', 'manažer'] },
+          { en: ['miner'], cs: ['horník'] },
+          { en: ['musician'], cs: ['hudebník'] },
+          { en: ['nurse'], cs: ['zdravotní sestra', 'ošetřovatel'] },
+          { en: ['painter'], cs: ['malíř'] },
+          { en: ['photographer'], cs: ['fotograf'] },
+          { en: ['pilot'], cs: ['pilot'] },
+          { en: ['plumber'], cs: ['instalatér'] },
+          { en: ['police officer'], cs: ['policista'] },
+          { en: ['politician'], cs: ['politik'] },
+          { en: ['postman'], cs: ['listonoš'] },
+          { en: ['postwoman'], cs: ['listonoška'] },
+          { en: ['psychologist'], cs: ['psycholog'] },
+          { en: ['receptionist'], cs: ['recepční'] },
+          {
+            en: ['sales representative', 'sales rep'],
+            cs: ['obchodní zástupce']
+          },
+          { en: ['scientist'], cs: ['vědec'] },
+          { en: ['secretary'], cs: ['sekretář', 'tajemník'] },
+          { en: ['security guard'], cs: ['pracovník ochrany'] },
+          { en: ['shop assistant'], cs: ['prodavač'] },
+          { en: ['shopkeeper'], cs: ['majitel obchodu'] },
+          { en: ['stockbroker'], cs: ['burzovní makléř'] },
+          { en: ['surgeon'], cs: ['chirurg'] },
+          { en: ['tailor'], cs: ['krejčí'] },
+          { en: ['taxi driver'], cs: ['taxikář'] },
+          { en: ['teacher'], cs: ['učitel'] },
+          { en: ['ticker inspector'], cs: ['revizor', 'průvodčí'] },
+          { en: ['tour guide'], cs: ['průvodce'] },
+          { en: ['translator'], cs: ['překladatel'] },
+          { en: ['travel agent'], cs: ['pracovník cestovní kanceláře'] },
+          { en: ['TV presenter'], cs: ['televizní moderátor'] },
+          { en: ['vet'], cs: ['veterinář'] },
+          { en: ['waiter'], cs: ['číšník'] },
+          { en: ['waitress'], cs: ['servírka'] }
+        ]
+      },
+      {
+        name: 'Adjectives to describe jobs',
+        words: [
+          { en: ['badly paid'], cs: ['špatně placený'] },
+          { en: ['full-time'], cs: ['plný úvazek'] },
+          { en: ['manual'], cs: ['manuální'] },
+          { en: ['part-time'], cs: ['částečný úvazek'] },
+          { en: ['permanent'], cs: ['stálý', 'trvalý'] },
+          { en: ['temporary'], cs: ['dočasný'] },
+          { en: ['well-paid'], cs: ['dobře placený'] }
+        ]
+      },
+      {
+        name: 'Looking for a job',
+        words: [
+          {
+            name: 'Looking for a job',
+            words: [
+              { en: ['applicant'], cs: ['uchazeč o práci'] },
+              { en: ['candidate'], cs: ['kandidát'] },
+              { en: ['suitable candidate'], cs: ['vhodný kandidát'] },
+              { en: ['curriculum viae', 'CV'], cs: ['životopis'] },
+              { en: ['employment contract'], cs: ['pracovní smlouva'] },
+              { en: ['experience'], cs: ['zkušenost'] },
+              { en: ["five years' experience"], cs: ['pětiletá zkušenost'] },
+              { en: ['form'], cs: ['formulář'] },
+              { en: ['application form'], cs: ['formulář žádosti o práci'] },
+              { en: ['job'], cs: ['práce'] },
+              { en: ['job advertisement'], cs: ['pracovní inzerát'] },
+              { en: ['job application'], cs: ['žádost o práci'] },
+              { en: ['job centre'], cs: ['pracovní úřad'] },
+              { en: ['job interview'], cs: ['pracovní pohovor'] },
+              { en: ['opportunity'], cs: ['příležitost'] },
+              { en: ['previous experience'], cs: ['předchozí zkušenost'] },
+              { en: ['qualifications'], cs: ['kvalifikace'] },
+              { en: ['recruitment'], cs: ['nábor'] },
+              { en: ['references'], cs: ['doporučení', 'reference'] },
+              { en: ['skills'], cs: ['dovednosti', 'znalosti'] },
+              { en: ['computer skills'], cs: ['znalost práce s počítačem'] },
+              { en: ['training'], cs: ['školení'] },
+              { en: ['training session'], cs: ['pracovní školení', 'trénink'] },
+              { en: ['vacancy'], cs: ['volné místo'] }
+            ]
+          },
+          {
+            name: 'Verbs',
+            words: [{ en: ['recruit'], cs: ['nabírat'] }]
+          },
+          {
+            name: 'Useful expressions',
+            words: [
+              { en: ['apply for a job'], cs: ['žádat o práci'] },
+              { en: ['apply for a position'], cs: ['ucházet o pozici'] },
+              { en: ['enclose a CV'], cs: ['přiložit životopis'] },
+              { en: ['fill in a form'], cs: ['vyplnit formulář'] },
+              { en: ['find work'], cs: ['najít práci'] },
+              {
+                en: ['interview applicants'],
+                cs: ['vést pracovní pohovor s uchazeči']
+              },
+              { en: ['look for a job'], cs: ['hledat práci'] },
+              {
+                en: ['the job involves dealing with people'],
+                cs: ['součástí práce je jednání s lidmi']
+              }
+            ]
+          }
+        ]
+      },
+      {
+        name: 'Work and money',
+        words: [
+          {
+            name: 'Work and money',
+            words: [
+              { en: ['bonus'], cs: ['prémie', 'bonus'] },
+              { en: ['earnings'], cs: ['výdělky'] },
+              { en: ['fee'], cs: ['poplatky'] },
+              {
+                en: ['fringe benefits', 'perks'],
+                cs: ['vedlejší výhody', 'benefity (mimo plat)']
+              },
+              { en: ['income'], cs: ['příjem'] },
+              { en: ['minimum wage'], cs: ['minimální mzda'] },
+              { en: ['pay', 'salary'], cs: ['plat'] },
+              { en: ['decent pay'], cs: ['slušný plat'] },
+              { en: ['pay rise'], cs: ['zvýšení platu'] },
+              { en: ['reasonable pay'], cs: ['přiměřený plat'] },
+              { en: ['sick pay'], cs: ['nemocenská'] },
+              { en: ['pension'], cs: ['penze', 'důchod'] },
+              { en: ['profit'], cs: ['zisk'] },
+              { en: ['starting salary'], cs: ['nástupní plat'] },
+              {
+                en: ['wages'],
+                cs: [
+                  'mzda (týdenní',
+                  ' denní',
+                  ' hodinová',
+                  ' většinou za nekvalifikovanou práci)'
+                ]
+              }
+            ]
+          },
+          {
+            name: 'Verbs',
+            words: [
+              { en: ['earn'], cs: ['vydělávat'] },
+              { en: ['pay'], cs: ['platit'] }
+            ]
+          },
+          {
+            name: 'Useful expressions',
+            words: [
+              { en: ['get a pay rise'], cs: ['dostat přidáno'] },
+              { en: ['get paid overtime'], cs: ['dostat zaplacené presčasy'] }
+            ]
+          }
+        ]
+      },
+      {
+        name: 'At work',
+        words: [
+          {
+            name: 'At work',
+            words: [
+              { en: ['at work'], cs: ['v práci'] },
+              { en: ['career prospects'], cs: ['kariérní vyhlídky'] },
+              { en: ['deadline'], cs: ['termín dokončení práce'] },
+              { en: ['hard work'], cs: ['težká práce'] },
+              { en: ['management'], cs: ['vedení'] },
+              { en: ['office'], cs: ['kancelář'] },
+              { en: ['overwork'], cs: ['přepracování'] },
+              {
+                en: ['responsible for somebody', 'responsible for something'],
+                cs: ['zodpovídat za něco', 'zodpovídat za někoho']
+              },
+              { en: ['teamwork'], cs: ['týmová práce'] },
+              { en: ['working conditions'], cs: ['pracovní podmínky'] },
+              { en: ['workplace'], cs: ['pracoviště'] }
+            ]
+          },
+          {
+            name: 'Verbs',
+            words: [
+              {
+                en: ['assist somebody'],
+                cs: ['pomáhat někomu', 'asistovat někomu']
+              },
+              { en: ['manage'], cs: ['řídit', 'zvládat'] },
+              { en: ['work'], cs: ['pracovat'] }
+            ]
+          },
+          {
+            name: 'Useful expressions',
+            words: [
+              {
+                en: ['be in charge of something'],
+                cs: ['mít na starost', 'zodpovídat za něco']
+              },
+              { en: ['be part of a team'], cs: ['být součástí týmu'] },
+              { en: ['be self-employed'], cs: ['samostatně podnikat'] },
+              { en: ['be promoted', 'get promoted'], cs: ['povýšit'] },
+              {
+                en: ['clock in', 'clock on'],
+                cs: ['píchnout příchod do práce']
+              },
+              { en: ['concentrate on something'], cs: ['soustředit se na'] },
+              { en: ['deal with people'], cs: ['jednat s lidmi'] },
+              { en: ["do a hard day's work"], cs: ['pracovat těžce celý den'] },
+              { en: ['do a training course'], cs: ['účastnit se školení'] },
+              { en: ["do one's job well"], cs: ['dělat svou práci dobře'] },
+              { en: ['do physical work'], cs: ['pracovat manuálně'] },
+              {
+                en: ['do something for a living', 'earn a living'],
+                cs: ['vydělávat si na živobytí']
+              },
+              {
+                en: ['do overtime', 'work overtime'],
+                cs: ['pracovat přesčas']
+              },
+              { en: ['get a job'], cs: ['dostat práci'] },
+              { en: ['give somebody a hand'], cs: ['pomáhat někomu'] },
+              { en: ['go on strike'], cs: ['stávkovat'] },
+              { en: ['go to work'], cs: ['jít do práce'] },
+              { en: ['pay per hour'], cs: ['platit hodinově'] },
+              { en: ['pay per month'], cs: ['platit měsíčně'] },
+              { en: ['pay per week'], cs: ['platit týdně'] },
+              { en: ['run a business'], cs: ['provozovat podnik'] },
+              {
+                en: ['take over duties from somebody'],
+                cs: ['převzít od někoho povinnosti']
+              },
+              { en: ['work as an engineer'], cs: ['pracovat jako inženýr'] },
+              { en: ['work for a company'], cs: ['pracovat pro podnik'] },
+              { en: ['work from home'], cs: ['pracovat doma'] },
+              { en: ['work long hours'], cs: ['pracovat dlouho'] },
+              { en: ['work on something'], cs: ['pracovat na něčem'] },
+              { en: ['work shifts'], cs: ['pracovat na směny'] }
+            ]
+          }
+        ]
+      },
+      {
+        name: 'Holidays and days off',
+        words: [
+          {
+            name: 'Holidays and days off',
+            words: [
+              { en: ['holiday'], cs: ['dovolená', 'svátek'] },
+              { en: ['leave'], cs: ['dovolená'] },
+              { en: ['maternity leave'], cs: ['mateřská dovolená'] },
+              { en: ['paid leave'], cs: ['placená dovolená'] },
+              { en: ['sick leave'], cs: ['pracovní neschopnost'] }
+            ]
+          },
+          {
+            name: 'Useful expressions',
+            words: [
+              { en: ['be off sick'], cs: ['být na neschopence'] },
+              {
+                en: ["take a week's leave"],
+                cs: ['vzít si týdenní dovolenou']
+              },
+              { en: ['take a day off work'], cs: ['vzít si den volna'] }
+            ]
+          }
+        ]
+      },
+      {
+        name: 'People at work',
+        words: [
+          { en: ['boss'], cs: ['šéf'] },
+          { en: ['colleague', 'workmate'], cs: ['kolega', 'spolupracovník'] },
+          { en: ['employee'], cs: ['zaměstnanec'] },
+          { en: ['employer'], cs: ['zaměstnavatel'] },
+          { en: ['staff'], cs: ['zaměstnanci'] },
+          { en: ['team'], cs: ['skupina', 'tým'] },
+          { en: ['worker'], cs: ['dělník'] }
+        ]
+      },
+      {
+        name: 'Employment',
+        words: [
+          { en: ['career'], cs: ['profesní kariéra'] },
+          { en: ['employ'], cs: ['zaměstnat'] },
+          { en: ['employment'], cs: ['zaměstnání'] },
+          { en: ['job'], cs: ['práce'] },
+          { en: ['current job'], cs: ['běžná práce'] },
+          { en: ['holiday job'], cs: ['prázdninová brigáda'] },
+          { en: ['summer job'], cs: ['letní brigáda'] },
+          { en: ['odd jobs'], cs: ['příležitostné práce'] },
+          { en: ['occupation'], cs: ['zaměstnání', 'povolání'] },
+          { en: ['position', 'post'], cs: ['pracovní pozice', 'postavení'] },
+          {
+            en: ['profession'],
+            cs: ['profese (zaměstnání s odbornou kvalifikací)']
+          },
+          { en: ['by profession'], cs: ['zaměstnáním'] },
+          { en: ['self-employed'], cs: ['samostatně podnikající'] },
+          { en: ['work experience'], cs: ['pracovní zkušenosti'] }
+        ]
+      },
+      {
+        name: 'Lack of employment',
+        words: [
+          {
+            name: 'Lack of employment',
+            words: [
+              { en: ['economic crisis'], cs: ['hospodářská krize'] },
+              { en: ['pensioner'], cs: ['důchodce'] },
+              { en: ['retirement'], cs: ['důchod', 'penze'] },
+              { en: ['unemployed', 'out of work'], cs: ['nezaměstnaný'] },
+              { en: ['unemployment'], cs: ['nezaměstnanost'] },
+              { en: ['high unemployment'], cs: ['vysoká nezaměstnanost'] },
+              { en: ['low unemployment'], cs: ['nízká nezaměstnanost'] },
+              { en: ['unemployment benefit'], cs: ['dávka v nezaměsatnanosti'] }
+            ]
+          },
+          {
+            name: 'Verbs',
+            words: [
+              { en: ['resign'], cs: ['vzdát se funkce', 'odstoupit'] },
+              { en: ['retire'], cs: ['jít do důchodu'] }
+            ]
+          },
+          {
+            name: 'Useful expressions',
+            words: [
+              {
+                en: [
+                  'fire somebody',
+                  'sack somebody',
+                  ' give somebody the sack'
+                ],
+                cs: ['propustit', 'vyhodit někoho z práce']
+              },
+              {
+                en: ['give up', "quit one's job"],
+                cs: ['odejít', 'skončit s prací']
+              },
+              { en: ['go bankrupt'], cs: ['zbankrotovat'] },
+              {
+                en: ["hand in one's resignation"],
+                cs: ['podat rezignaci', 'dát výpověď']
+              },
+              { en: ["lose one's lob"], cs: ['přijít o práci'] },
+              {
+                en: ['make somebody redundant'],
+                cs: ['propustit někoho pro nadbytečnost']
+              },
+              { en: ['one the dole'], cs: ['být na podpoře'] }
+            ]
+          }
+        ]
+      }
+    ]
   }
 ];
 
@@ -704,18 +1112,20 @@ interface IWord {
   audio?: number[];
   words?: IWord[];
   uuid?: string;
+  parent?: IWord;
 }
 
-function tree(array: IWord[]) {
+function tree(array: IWord[], parent?: IWord) {
   let rows: any[] = [];
 
   array.forEach((node, index) => {
     if (typeof node.name !== 'undefined') {
       node.uuid = v1();
+      node.parent = parent;
     }
 
     if (typeof node.words !== 'undefined') {
-      rows.push(...tree(node.words));
+      rows.push(...tree(node.words, node));
     }
   });
 
