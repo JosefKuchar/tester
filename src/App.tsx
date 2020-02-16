@@ -7,7 +7,7 @@ import {
   Route,
 } from "react-router-dom";
 
-import { AboutPage, WordbankPage, NotFoundPage, TesterPage } from './pages';
+import { AboutPage, WordbankPage, NotFoundPage, TesterPage, IrregularVerbsPage } from './pages';
 
 export class App extends React.Component<{}, {}> {
   render() {
@@ -21,6 +21,9 @@ export class App extends React.Component<{}, {}> {
               </Route>
               <Route exact path="/wordbank">
                 <WordbankPage></WordbankPage>
+              </Route>
+              <Route exact path="/irregular-verbs">
+                <IrregularVerbsPage></IrregularVerbsPage>
               </Route>
               <Route exact path="/">
                 <TesterPage></TesterPage>

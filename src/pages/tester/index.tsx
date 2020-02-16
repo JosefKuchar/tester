@@ -1,6 +1,6 @@
 import React from 'react';
 import Input from '@material-ui/core/Input';
-import { Typography, Card, CardContent, TextareaAutosize, Divider } from '@material-ui/core';
+import { Typography, Card, CardContent, } from '@material-ui/core';
 import { words } from '../../words';
 import { Page } from '..';
 import { WordSelect } from './WordSelect';

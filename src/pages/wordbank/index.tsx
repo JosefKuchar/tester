@@ -1,9 +1,8 @@
 import React from 'react';
-import { Typography, Link, Table, TableHead, TableRow, TableCell, TableBody, Paper, TableContainer, Button } from '@material-ui/core';
+import { Typography, Table, TableHead, TableRow, TableCell, TableBody, Paper, TableContainer, Button } from '@material-ui/core';
 import { Page } from '..';
 import { words } from '../../words';
 import SwapHorizIcon from '@material-ui/icons/SwapHoriz';
-import VisibilityOffIcon from '@material-ui/icons/VisibilityOff';
 
 interface IWord {
   name?: string;

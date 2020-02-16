@@ -1,6 +1,5 @@
 import React from 'react';
 import { Checkbox, FormControlLabel } from '@material-ui/core';
-import { words } from '../../words';
 
 interface IWord {
   name?: string;
