@@ -36,10 +36,15 @@ export class IrregularVerbsPage extends React.Component<{}, IIrregularVerbsPageS
   }
 
   handlePress(e: any, inputNum: number) {
-    if (e.key === 'Enter' || e.key === ' ') {
+    const inputVal = this.state.inputs[inputNum];
+    if (e.key === 'Enter' || e.key === ' ' || inputVal.charAt(inputVal.length - 1) === ' ') {
       if (inputNum === 2) {
         this.checkInput();
       } else {
+        this.setState({
+          ...this.state,
+          inputs: this.state.inputs.map(input => input.trim())
+        });
         this.inputRefs[inputNum + 1].current.focus();
       }
     }
