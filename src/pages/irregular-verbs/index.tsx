@@ -37,7 +37,7 @@ export class IrregularVerbsPage extends React.Component<{}, IIrregularVerbsPageS
 
   handlePress(e: any, inputNum: number) {
     const inputVal = this.state.inputs[inputNum];
-    if (e.key === 'Enter' || e.key === ' ' || inputVal.charAt(inputVal.length - 1) === ' ') {
+    if (e.key === 'Enter' || e.key === ' ' || ((e.which | e.keyCode) === 229 && inputVal.charAt(inputVal.length - 1) === ' ')) {
       if (inputNum === 2) {
         this.checkInput();
       } else {
