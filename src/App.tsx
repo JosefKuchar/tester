@@ -1,18 +1,20 @@
-import React from 'react';
-import Container from '@material-ui/core/Container';
-import ResponsiveDrawer from './ResponsiveDrawer';
-import {
-  BrowserRouter as Router,
-  Switch,
-  Route,
-} from "react-router-dom";
+import React from "react";
+import Container from "@material-ui/core/Container";
+import ResponsiveDrawer from "./ResponsiveDrawer";
+import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 
-import { AboutPage, WordbankPage, NotFoundPage, TesterPage, IrregularVerbsPage } from './pages';
+import {
+  AboutPage,
+  WordbankPage,
+  NotFoundPage,
+  TesterPage,
+  IrregularVerbsPage
+} from "./pages";
 
 export class App extends React.Component<{}, {}> {
   render() {
     return (
-      <Router basename="/tester/#" >
+      <Router basename="/tester/#">
         <ResponsiveDrawer title="New Maturita Activator Words">
           <Container>
             <Switch>
