@@ -12,7 +12,7 @@ import { AboutPage, WordbankPage, NotFoundPage, TesterPage, IrregularVerbsPage }
 export class App extends React.Component<{}, {}> {
   render() {
     return (
-      <Router basename="/tester" >
+      <Router basename="/tester/#" >
         <ResponsiveDrawer title="New Maturita Activator Words">
           <Container>
             <Switch>
@@ -25,11 +25,8 @@ export class App extends React.Component<{}, {}> {
               <Route exact path="/irregular-verbs">
                 <IrregularVerbsPage></IrregularVerbsPage>
               </Route>
-              <Route exact path="/">
+              <Route exact path="*">
                 <TesterPage></TesterPage>
-              </Route>
-              <Route path="*">
-                <NotFoundPage></NotFoundPage>
               </Route>
             </Switch>
           </Container>
