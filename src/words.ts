@@ -823,7 +823,7 @@ export let words = [
           { en: ["fashion designer"], cs: ["módní návrhář"] },
           { en: ["film director"], cs: ["režisér"] },
           { en: ["firefighter"], cs: ["hasič"] },
-          { en: ["flight attentant"], cs: ["letuška", "stevard"] },
+          { en: ["flight attendant"], cs: ["letuška", "stevard"] },
           { en: ["fruit picker"], cs: ["česač ovoce"] },
           { en: ["hairdresser"], cs: ["kadeřník"] },
           { en: ["housewife"], cs: ["hospodyně", "žena v domácnosti"] },
@@ -875,7 +875,7 @@ export let words = [
           { en: ["tailor"], cs: ["krejčí"] },
           { en: ["taxi driver"], cs: ["taxikář"] },
           { en: ["teacher"], cs: ["učitel"] },
-          { en: ["ticker inspector"], cs: ["revizor", "průvodčí"] },
+          { en: ["ticket inspector"], cs: ["revizor", "průvodčí"] },
           { en: ["tour guide"], cs: ["průvodce"] },
           { en: ["translator"], cs: ["překladatel"] },
           { en: ["travel agent"], cs: ["pracovník cestovní kanceláře"] },
@@ -1177,7 +1177,7 @@ export let words = [
                 en: [
                   "fire somebody",
                   "sack somebody",
-                  " give somebody the sack"
+                  "give somebody the sack"
                 ],
                 cs: ["propustit", "vyhodit někoho z práce"]
               },
@@ -1190,7 +1190,7 @@ export let words = [
                 en: ["hand in one's resignation"],
                 cs: ["podat rezignaci", "dát výpověď"]
               },
-              { en: ["lose one's lob"], cs: ["přijít o práci"] },
+              { en: ["lose one's job"], cs: ["přijít o práci"] },
               {
                 en: ["make somebody redundant"],
                 cs: ["propustit někoho pro nadbytečnost"]
