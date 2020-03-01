@@ -1195,7 +1195,7 @@ export let words = [
                 en: ["make somebody redundant"],
                 cs: ["propustit někoho pro nadbytečnost"]
               },
-              { en: ["one the dole"], cs: ["být na podpoře"] }
+              { en: ["on the dole"], cs: ["být na podpoře"] }
             ]
           }
         ]
