@@ -805,7 +805,7 @@ export let words = [
           { en: ["babysitter"], cs: ["někdo na hlídání dětí", "chůva"] },
           { en: ["beautician"], cs: ["kosmetička"] },
           { en: ["bus driver"], cs: ["řidič autobusu"] },
-          { en: ["car mechanic"], cs: ["automachanik"] },
+          { en: ["car mechanic"], cs: ["automechanik"] },
           { en: ["chef"], cs: ["šéfkuchař"] },
           { en: ["chemist", "pharmacist"], cs: ["farmaceut"] },
           { en: ["cleaner"], cs: ["uklízečka"] },
