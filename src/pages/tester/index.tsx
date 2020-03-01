@@ -36,7 +36,8 @@ export class TesterPage extends React.Component<{}, ITesterState> {
     if (e.key === "Enter") {
       if (
         this.state.current.en!.filter(
-          word => word.toLowerCase() === this.state.input.toLowerCase()
+          word =>
+            word.toLowerCase().trim() === this.state.input.toLowerCase().trim()
         ).length > 0
       ) {
         this.selectRandomWord();
