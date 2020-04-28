@@ -1406,7 +1406,7 @@ export let words = [
       { en: ["adulthood"], cs: ["dospělost"] },
       { en: ["age group"], cs: ["věková skupina"] },
       { en: ["at the age of"], cs: ["ve věku"] },
-      { en: ["brith"], cs: ["narození"] },
+      { en: ["birth"], cs: ["narození"] },
       { en: ["childhood"], cs: ["dětství"] },
       { en: ["dead"], cs: ["mrtvý"] },
       { en: ["death"], cs: ["smrt"] },
