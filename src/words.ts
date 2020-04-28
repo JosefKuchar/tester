@@ -36,8 +36,8 @@ export let words = [
           { en: ["toilet"], cs: ["toaleta"] },
           { en: ["upstairs"], cs: ["patro", "horní podlaží"] },
           { en: ["WC"], cs: ["WC"] },
-          { en: ["window"], cs: ["okno"] }
-        ]
+          { en: ["window"], cs: ["okno"] },
+        ],
       },
       {
         name: "Furniture and accessories",
@@ -63,8 +63,8 @@ export let words = [
               { en: ["radiator"], cs: ["radiátor", "topení"] },
               { en: ["vacuum cleaner"], cs: ["vysavač"] },
               { en: ["wallpaper"], cs: ["tapeta"] },
-              { en: ["windowsill"], cs: ["okenní parapet"] }
-            ]
+              { en: ["windowsill"], cs: ["okenní parapet"] },
+            ],
           },
           {
             name: "Bathroom",
@@ -78,8 +78,8 @@ export let words = [
               { en: ["toothbrush"], cs: ["zubní kartáček"] },
               { en: ["towel"], cs: ["ručník"] },
               { en: ["washbasin"], cs: ["umyvadlo"] },
-              { en: ["washing machine"], cs: ["pračka"] }
-            ]
+              { en: ["washing machine"], cs: ["pračka"] },
+            ],
           },
           {
             name: "Bedroom",
@@ -96,8 +96,8 @@ export let words = [
               { en: ["rug"], cs: ["kobereček"] },
               { en: ["sheet"], cs: ["prostěradlo"] },
               { en: ["shelf"], cs: ["police"] },
-              { en: ["wardrobe"], cs: ["šatník"] }
-            ]
+              { en: ["wardrobe"], cs: ["šatník"] },
+            ],
           },
           {
             name: "Sitting room / living room",
@@ -113,8 +113,8 @@ export let words = [
               { en: ["dinning table"], cs: ["jídelní stůl"] },
               { en: ["fireplace"], cs: ["krb"] },
               { en: ["living room", "sitting room"], cs: ["obývací pokoj"] },
-              { en: ["TV set"], cs: ["televize"] }
-            ]
+              { en: ["TV set"], cs: ["televize"] },
+            ],
           },
           {
             name: "Kitchen",
@@ -135,10 +135,10 @@ export let words = [
               { en: ["oven"], cs: ["trouba"] },
               { en: ["running water"], cs: ["tekoucí voda"] },
               { en: ["sink"], cs: ["dřez"] },
-              { en: ["teapot"], cs: ["konvice na čaj"] }
-            ]
-          }
-        ]
+              { en: ["teapot"], cs: ["konvice na čaj"] },
+            ],
+          },
+        ],
       },
       {
         name: "Types of houses and flats",
@@ -159,8 +159,8 @@ export let words = [
           { en: ["skyscraper"], cs: ["mrakodrap"] },
           { en: ["studio flat"], cs: ["garsonka"] },
           { en: ["terraced house"], cs: ["řadový dům"] },
-          { en: ["two-roomed flat"], cs: ["dvoupokojový byt"] }
-        ]
+          { en: ["two-roomed flat"], cs: ["dvoupokojový byt"] },
+        ],
       },
       {
         name: "Renting a flat",
@@ -185,19 +185,19 @@ export let words = [
               { en: ["rent"], cs: ["nájem"] },
               { en: ["roommate"], cs: ["spolubydlící (v pokoji)"] },
               { en: ["tenant"], cs: ["nájemník"] },
-              { en: ["to let"], cs: ["k pronájmu"] }
-            ]
+              { en: ["to let"], cs: ["k pronájmu"] },
+            ],
           },
           {
             name: "Useful expressions",
             words: [
               {
                 en: ["can afford something", "could afford something"],
-                cs: ["moci si něco dovolit (finančně)"]
+                cs: ["moci si něco dovolit (finančně)"],
               },
               {
                 en: ["find a place of your own"],
-                cs: ["najít si vlastní bydlení"]
+                cs: ["najít si vlastní bydlení"],
               },
               { en: ["let a flat"], cs: ["pronajmout byt"] },
               { en: ["pay in advance"], cs: ["zaplatit předem"] },
@@ -206,18 +206,18 @@ export let words = [
               { en: ["rent a flat"], cs: ["pronajmout si byt"] },
               {
                 en: ["share a flat", "share a room"],
-                cs: ["bydlet společně v bytě", "bydlet společně v pokoji"]
-              }
-            ]
-          }
-        ]
+                cs: ["bydlet společně v bytě", "bydlet společně v pokoji"],
+              },
+            ],
+          },
+        ],
       },
       {
         name: "Location",
         words: [
           {
             en: ["amenities", "facilities"],
-            cs: ["vybavenost", "infrastruktura"]
+            cs: ["vybavenost", "infrastruktura"],
           },
           { en: ["area"], cs: ["oblast"] },
           { en: ["capital", "capital city"], cs: ["hlavní město"] },
@@ -242,8 +242,8 @@ export let words = [
           { en: ["town"], cs: ["město"] },
           { en: ["underground station"], cs: ["stanice metra"] },
           { en: ["urban"], cs: ["městský"] },
-          { en: ["view off"], cs: ["vyhlídka", "výhled"] }
-        ]
+          { en: ["view off"], cs: ["vyhlídka", "výhled"] },
+        ],
       },
       {
         name: "Conditions and size",
@@ -265,8 +265,8 @@ export let words = [
               { en: ["modern"], cs: ["moderní"] },
               { en: ["recently renovated"], cs: ["nedávno zrenovovaný"] },
               { en: ["roomy", "spacious"], cs: ["prostorný"] },
-              { en: ["tiny"], cs: ["maličký"] }
-            ]
+              { en: ["tiny"], cs: ["maličký"] },
+            ],
           },
           {
             name: "Verbs and expressions",
@@ -275,11 +275,11 @@ export let words = [
               { en: ["DIY", "Do it yourself"], cs: ["udělej si sám"] },
               {
                 en: ["do up one's house", "redecorate"],
-                cs: ["vylepšovat dům", "nově vymalovat"]
-              }
-            ]
-          }
-        ]
+                cs: ["vylepšovat dům", "nově vymalovat"],
+              },
+            ],
+          },
+        ],
       },
       {
         name: "Housework",
@@ -290,8 +290,8 @@ export let words = [
               { en: ["clean"], cs: ["mýt", "čistit"] },
               { en: ["commute"], cs: ["dojíždět do práce"] },
               { en: ["cook"], cs: ["vařit"] },
-              { en: ["vacuum"], cs: ["luxovat"] }
-            ]
+              { en: ["vacuum"], cs: ["luxovat"] },
+            ],
           },
           {
             name: "Useful expressions",
@@ -304,11 +304,11 @@ export let words = [
               { en: ["do the cooking"], cs: ["vařit"] },
               {
                 en: ["do the dishes", "do the washing-up"],
-                cs: ["mýt nádobí"]
+                cs: ["mýt nádobí"],
               },
               {
                 en: ["do the housework", "do household jobs"],
-                cs: ["dělat domácí práce"]
+                cs: ["dělat domácí práce"],
               },
               { en: ["do the ironing"], cs: ["žehlit"] },
               { en: ["do the shopping"], cs: ["nakupovat"] },
@@ -324,12 +324,12 @@ export let words = [
               { en: ["put away one's clothes"], cs: ["uklidit si oblečení"] },
               { en: ["see somebody home"], cs: ["vyprovodit někoho domů"] },
               { en: ["stay in"], cs: ["zůstat doma"] },
-              { en: ["stay out"], cs: ["zůstat venku"] }
-            ]
-          }
-        ]
-      }
-    ]
+              { en: ["stay out"], cs: ["zůstat venku"] },
+            ],
+          },
+        ],
+      },
+    ],
   },
   {
     name: "Chapter 3",
@@ -342,51 +342,51 @@ export let words = [
           {
             en: ["elementary school", "primary school"],
             cs: ["základní škola"],
-            audio: [8, 9]
+            audio: [8, 9],
           },
           {
             en: ["high school", "secondary school"],
             cs: ["střední škola"],
-            audio: [10, 11]
+            audio: [10, 11],
           },
           { en: ["independent school"], cs: ["soukromá škola"], audio: [12] },
           {
             en: ["kindergarden", "nursery school"],
             cs: ["mateřská škola"],
-            audio: [13]
+            audio: [13],
           },
           {
             en: ["middle school", "junior high school"],
             cs: ["střední škola"],
-            audio: [14]
+            audio: [14],
           },
           {
             en: ["mixed school", "co-educational school"],
             cs: ["koedukační škola"],
-            audio: [15, 16]
+            audio: [15, 16],
           },
           {
             en: ["private school", "public school"],
             cs: ["soukromá škola"],
-            audio: [17]
+            audio: [17],
           },
           {
             en: ["single-sex school"],
             cs: ["chlapecká nebo dívčí škola"],
-            audio: [18]
+            audio: [18],
           },
           {
             en: ["state school", "public school"],
             cs: ["státní škola"],
-            audio: [19]
+            audio: [19],
           },
           { en: ["university"], cs: ["univerzita"], audio: [20] },
           {
             en: ["vocational school"],
             cs: ["učňovská škola", "odborná škola"],
-            audio: [21]
-          }
-        ]
+            audio: [21],
+          },
+        ],
       },
       {
         name: "Places in a school",
@@ -395,13 +395,13 @@ export let words = [
           {
             en: ["canteen", "dining room"],
             cs: ["školní jídelna"],
-            audio: [23]
+            audio: [23],
           },
           { en: ["classroom"], cs: ["třída"], audio: [24] },
           {
             en: ["common room"],
             cs: ["studovna", "místnost pro odpočinek"],
-            audio: [25]
+            audio: [25],
           },
           { en: ["computer room"], cs: ["počítačová učebna"], audio: [26] },
           { en: ["corridor"], cs: ["chodba"], audio: [27] },
@@ -414,11 +414,11 @@ export let words = [
           {
             en: ["science lab"],
             cs: ["učebna fyziky", "učebna biologie", "učebna chemie"],
-            audio: [35]
+            audio: [35],
           },
           { en: ["sports field"], cs: ["sportovní hřiště"], audio: [36] },
-          { en: ["staffroom"], cs: ["sborovna"], audio: [37] }
-        ]
+          { en: ["staffroom"], cs: ["sborovna"], audio: [37] },
+        ],
       },
       {
         name: "People in a school",
@@ -429,31 +429,31 @@ export let words = [
           {
             en: ["deputy head", "assistant principal"],
             cs: ["zástupce ředitele"],
-            audio: [41]
+            audio: [41],
           },
           { en: ["examiner"], cs: ["zkoušející"], audio: [42] },
           { en: ["form teacher"], cs: ["třídní učitel"], audio: [43] },
           {
             en: ["headmaster", "head teacher", "principal"],
             cs: ["ředitel"],
-            audio: [44]
+            audio: [44],
           },
           {
             en: ["headmistress", "head teacher", "principal"],
             cs: ["ředitelka"],
-            audio: [45]
+            audio: [45],
           },
           { en: ["lacturer"], cs: ["přednášející", "lektor"], audio: [46] },
           { en: ["professor"], cs: ["profesor"], audio: [47] },
           {
             en: ["schoolboy", "pupil"],
             cs: ["školák", "žák"],
-            audio: [48, 49]
+            audio: [48, 49],
           },
           {
             en: ["schoolgirl", "pupil"],
             cs: ["školačka", "žačka"],
-            audio: [50]
+            audio: [50],
           },
           { en: ["schoolmate"], cs: ["spolužák ze školy"], audio: [51] },
           { en: ["secretary"], cs: ["sekretář", "sekretářka"], audio: [52] },
@@ -463,9 +463,9 @@ export let words = [
           {
             en: ["university student"],
             cs: ["student univerzity"],
-            audio: [56]
-          }
-        ]
+            audio: [56],
+          },
+        ],
       },
       {
         name: "School subjects",
@@ -477,18 +477,18 @@ export let words = [
           {
             en: ["Civic studies", "Civics"],
             cs: ["občanská výchova"],
-            audio: [61]
+            audio: [61],
           },
           { en: ["club"], cs: ["klub", "kroužek"], audio: [62] },
           {
             en: ["Czech language and literature"],
             cs: ["český jazyk a literatura"],
-            audio: [63]
+            audio: [63],
           },
           {
             en: ["English language and literature"],
             cs: ["anglický jazyk a literatura"],
-            audio: [64]
+            audio: [64],
           },
           { en: ["foreign languages"], cs: ["cizí jazyky"], audio: [65] },
           { en: ["Geography"], cs: ["zeměpis"], audio: [66] },
@@ -499,27 +499,27 @@ export let words = [
               "Information and Communication Technology",
               "Information Technology",
               "ICT",
-              "IT"
+              "IT",
             ],
             cs: ["informatika"],
-            audio: [69, 70, 71, 72]
+            audio: [69, 70, 71, 72],
           },
           { en: ["Mathematics", "Maths"], cs: ["matematika"], audio: [73] },
           { en: ["Music"], cs: ["hudba"], audio: [74] },
           {
             en: ["Physical Education", "PE"],
             cs: ["tělesná výchova"],
-            audio: [75]
+            audio: [75],
           },
           { en: ["Physics"], cs: ["fyzika"], audio: [76] },
           {
             en: ["Religious Education", "RE"],
             cs: ["výchova k náboženství"],
-            audio: [77]
+            audio: [77],
           },
           { en: ["Science"], cs: ["přírodní vědy"], audio: [78] },
-          { en: ["subject"], cs: ["předmět"], audio: [79] }
-        ]
+          { en: ["subject"], cs: ["předmět"], audio: [79] },
+        ],
       },
       {
         name: "School objects",
@@ -546,8 +546,8 @@ export let words = [
           { en: ["row of desks"], cs: ["řada lavic", "oddělení"] },
           { en: ["rubber"], cs: ["guma"] },
           { en: ["ruler"], cs: ["pravítko"] },
-          { en: ["whiteboard"], cs: ["bílá tabule"] }
-        ]
+          { en: ["whiteboard"], cs: ["bílá tabule"] },
+        ],
       },
       {
         name: "Exams",
@@ -563,17 +563,17 @@ export let words = [
               { en: ["examination", "exam"], cs: ["zkoušky"] },
               {
                 en: ["get a place at a university"],
-                cs: ["dostat se na univerzitu"]
+                cs: ["dostat se na univerzitu"],
               },
               {
                 en: ["school-leaving exam"],
-                cs: ["závěrečná zkouška", "maturita"]
+                cs: ["závěrečná zkouška", "maturita"],
               },
               {
                 en: ["university entrance exam"],
-                cs: ["přijímací zkouška na univerzitu"]
-              }
-            ]
+                cs: ["přijímací zkouška na univerzitu"],
+              },
+            ],
           },
           {
             name: "Useful expressions",
@@ -581,42 +581,42 @@ export let words = [
               { en: ["cheat in an exam"], cs: ["podvádět při zkoušce"] },
               {
                 en: ["do an exam", "sit an exam", "take an exam"],
-                cs: ["skládat zkoušku"]
+                cs: ["skládat zkoušku"],
               },
               {
                 en: ["do badly in an exam"],
-                cs: ["mít špatné výsledky u zkoušky"]
+                cs: ["mít špatné výsledky u zkoušky"],
               },
               {
                 en: ["do well in an exam"],
-                cs: ["mít dobré výsledky u zkoušky"]
+                cs: ["mít dobré výsledky u zkoušky"],
               },
               { en: ["fail an exam"], cs: ["propadnout u zkoušky"] },
               {
                 en: ["get 56 marks in a test", "score 56 marks in a test"],
-                cs: ["dostat v testu 56 bodů"]
+                cs: ["dostat v testu 56 bodů"],
               },
               { en: ["grade", "mark"], cs: ["stupeň", "známka"] },
               {
                 en: ["grade exam papers", "mark exam papers"],
-                cs: ["známkovat zkouškové archy", "známkovat zkouškové otázky"]
+                cs: ["známkovat zkouškové archy", "známkovat zkouškové otázky"],
               },
               { en: ["grade a test", "mark a test"], cs: ["známkovat test"] },
               {
                 en: ["grade homework", "mark homework"],
-                cs: ["známkovat domácí úkol"]
+                cs: ["známkovat domácí úkol"],
               },
               { en: ["pass an exam"], cs: ["složit zkoušku"] },
               {
                 en: ["prepare for an exam"],
-                cs: ["připravovat se na zkoušku"]
+                cs: ["připravovat se na zkoušku"],
               },
               { en: ["retake an exam"], cs: ["opakovat zkoušku"] },
               { en: ["revise for an exam"], cs: ["opakovat si na zkoušku"] },
-              { en: ["study for an exam"], cs: ["učit se na zkoušku"] }
-            ]
-          }
-        ]
+              { en: ["study for an exam"], cs: ["učit se na zkoušku"] },
+            ],
+          },
+        ],
       },
       {
         name: "Being at school / Studying",
@@ -630,7 +630,7 @@ export let words = [
               { en: ["break"], cs: ["přestávka"] },
               {
                 en: ["bully"],
-                cs: ["ten, kdo šikanuje", "ten, kdo ubližuje spolužákům"]
+                cs: ["ten, kdo šikanuje", "ten, kdo ubližuje spolužákům"],
               },
               { en: ["clas"], cs: ["lekce", "vyučování"] },
               { en: ["competition"], cs: ["soutěž"] },
@@ -653,8 +653,8 @@ export let words = [
               { en: ["staff meeting"], cs: ["pedagogická rada"] },
               { en: ["term"], cs: ["semestr", "pololetí"] },
               { en: ["timetable"], cs: ["rozvrh hodin"] },
-              { en: ["written work"], cs: ["písemná práce"] }
-            ]
+              { en: ["written work"], cs: ["písemná práce"] },
+            ],
           },
           {
             name: "Verbs",
@@ -662,8 +662,8 @@ export let words = [
               { en: ["attend"], cs: ["chodit do školy"] },
               { en: ["chatter"], cs: ["povídat"] },
               { en: ["learn"], cs: ["učit se"] },
-              { en: ["set"], cs: ["zadat"] }
-            ]
+              { en: ["set"], cs: ["zadat"] },
+            ],
           },
           {
             name: "Useful expressions",
@@ -676,7 +676,7 @@ export let words = [
               { en: ["do a project"], cs: ["dělat projekt"] },
               {
                 en: ["do a task", "do an activity"],
-                cs: ["dělat úkol", "zabývat se činností"]
+                cs: ["dělat úkol", "zabývat se činností"],
               },
               { en: ["do an exercise"], cs: ["dělat cvičení"] },
               { en: ["do an experiment"], cs: ["provádět pokus"] },
@@ -693,16 +693,16 @@ export let words = [
               { en: ["miss lessons"], cs: ["zameškat hodiny"] },
               {
                 en: ["participate", "take part in a lesson"],
-                cs: ["zapojit se v hodině"]
+                cs: ["zapojit se v hodině"],
               },
               {
                 en: ["pay attention in class"],
-                cs: ["dávat při vyučování pozor"]
+                cs: ["dávat při vyučování pozor"],
               },
               { en: ["read maps"], cs: ["šíst z mapy"] },
               {
                 en: ["set an essay"],
-                cs: ["zadat písemnou práci", "zadat esej"]
+                cs: ["zadat písemnou práci", "zadat esej"],
               },
               { en: ["set homework"], cs: ["zadat domácí úkol"] },
               { en: ["skip classes", "play truant"], cs: ["chodit za školu"] },
@@ -712,10 +712,10 @@ export let words = [
               { en: ["take the register"], cs: ["zapsat do třídnice"] },
               { en: ["turn up late", "be late"], cs: ["přijít pozdě"] },
               { en: ["wipe the board"], cs: ["smazat tabuli"] },
-              { en: ["write an essay"], cs: ["napsat esej"] }
-            ]
-          }
-        ]
+              { en: ["write an essay"], cs: ["napsat esej"] },
+            ],
+          },
+        ],
       },
       {
         name: "Graduation",
@@ -725,23 +725,23 @@ export let words = [
             words: [
               {
                 en: ["BA", "Bachlor of Arts"],
-                cs: ["bakalář (humanitní obory)"]
+                cs: ["bakalář (humanitní obory)"],
               },
               {
                 en: ["BSc", "Bachelor of Science"],
-                cs: ["bakalář (přírodní vědy)"]
+                cs: ["bakalář (přírodní vědy)"],
               },
               { en: ["graduate"], cs: ["absolvent"] },
               {
                 en: ["MA", "Master of Arts"],
-                cs: ["magistr (humanitní obory)"]
+                cs: ["magistr (humanitní obory)"],
               },
               {
                 en: ["MSc", "Master of Science"],
-                cs: ["magistr (přírodní vědy)"]
+                cs: ["magistr (přírodní vědy)"],
               },
-              { en: ["PhD", "Doctor of Philosophy"], cs: ["doktor"] }
-            ]
+              { en: ["PhD", "Doctor of Philosophy"], cs: ["doktor"] },
+            ],
           },
           {
             name: "Useful expressions",
@@ -749,27 +749,27 @@ export let words = [
               { en: ["get into university"], cs: ["dostat se na univerzitu"] },
               {
                 en: ["graduate from university"],
-                cs: ["vystudovat univezitu"]
+                cs: ["vystudovat univezitu"],
               },
               {
                 en: [
                   "receive a certificate",
                   "obtain a certificate",
-                  "get a certificate"
+                  "get a certificate",
                 ],
-                cs: ["získat certifikát"]
+                cs: ["získat certifikát"],
               },
               {
                 en: ["receive a degree", "obtain a degree", "get a degree"],
-                cs: ["získat akademickou hodnost", "získat titul"]
+                cs: ["získat akademickou hodnost", "získat titul"],
               },
               {
                 en: ["receive a diploma", "obtain a diploma", "get a diploma"],
-                cs: ["získat diplom"]
-              }
-            ]
-          }
-        ]
+                cs: ["získat diplom"],
+              },
+            ],
+          },
+        ],
       },
       {
         name: "Adjectives describing teachers and students",
@@ -789,10 +789,10 @@ export let words = [
           { en: ["punctual"], cs: ["přesný"] },
           { en: ["strict"], cs: ["přísný"] },
           { en: ["systematic"], cs: ["systematický"] },
-          { en: ["talented"], cs: ["talentovaný"] }
-        ]
-      }
-    ]
+          { en: ["talented"], cs: ["talentovaný"] },
+        ],
+      },
+    ],
   },
   {
     name: "Chapter 4",
@@ -837,15 +837,15 @@ export let words = [
             en: ["lollipop lady"],
             cs: [
               "žena",
-              " která dohlíží na bezpečnost školáků na přechodu při cestě do školy"
-            ]
+              " která dohlíží na bezpečnost školáků na přechodu při cestě do školy",
+            ],
           },
           {
             en: ["lollipop man"],
             cs: [
               "muž",
-              " který dohlíží na bezpečnost školáků na přechodu při cestě do školy"
-            ]
+              " který dohlíží na bezpečnost školáků na přechodu při cestě do školy",
+            ],
           },
           { en: ["manager"], cs: ["vedoucí", "manažer"] },
           { en: ["miner"], cs: ["horník"] },
@@ -863,7 +863,7 @@ export let words = [
           { en: ["receptionist"], cs: ["recepční"] },
           {
             en: ["sales representative", "sales rep"],
-            cs: ["obchodní zástupce"]
+            cs: ["obchodní zástupce"],
           },
           { en: ["scientist"], cs: ["vědec"] },
           { en: ["secretary"], cs: ["sekretář", "tajemník"] },
@@ -882,8 +882,8 @@ export let words = [
           { en: ["TV presenter"], cs: ["televizní moderátor"] },
           { en: ["vet"], cs: ["veterinář"] },
           { en: ["waiter"], cs: ["číšník"] },
-          { en: ["waitress"], cs: ["servírka"] }
-        ]
+          { en: ["waitress"], cs: ["servírka"] },
+        ],
       },
       {
         name: "Adjectives to describe jobs",
@@ -894,8 +894,8 @@ export let words = [
           { en: ["part-time"], cs: ["částečný úvazek"] },
           { en: ["permanent"], cs: ["stálý", "trvalý"] },
           { en: ["temporary"], cs: ["dočasný"] },
-          { en: ["well-paid"], cs: ["dobře placený"] }
-        ]
+          { en: ["well-paid"], cs: ["dobře placený"] },
+        ],
       },
       {
         name: "Looking for a job",
@@ -926,12 +926,12 @@ export let words = [
               { en: ["computer skills"], cs: ["znalost práce s počítačem"] },
               { en: ["training"], cs: ["školení"] },
               { en: ["training session"], cs: ["pracovní školení", "trénink"] },
-              { en: ["vacancy"], cs: ["volné místo"] }
-            ]
+              { en: ["vacancy"], cs: ["volné místo"] },
+            ],
           },
           {
             name: "Verbs",
-            words: [{ en: ["recruit"], cs: ["nabírat"] }]
+            words: [{ en: ["recruit"], cs: ["nabírat"] }],
           },
           {
             name: "Useful expressions",
@@ -943,16 +943,16 @@ export let words = [
               { en: ["find work"], cs: ["najít práci"] },
               {
                 en: ["interview applicants"],
-                cs: ["vést pracovní pohovor s uchazeči"]
+                cs: ["vést pracovní pohovor s uchazeči"],
               },
               { en: ["look for a job"], cs: ["hledat práci"] },
               {
                 en: ["the job involves dealing with people"],
-                cs: ["součástí práce je jednání s lidmi"]
-              }
-            ]
-          }
-        ]
+                cs: ["součástí práce je jednání s lidmi"],
+              },
+            ],
+          },
+        ],
       },
       {
         name: "Work and money",
@@ -965,7 +965,7 @@ export let words = [
               { en: ["fee"], cs: ["poplatky"] },
               {
                 en: ["fringe benefits", "perks"],
-                cs: ["vedlejší výhody", "benefity (mimo plat)"]
+                cs: ["vedlejší výhody", "benefity (mimo plat)"],
               },
               { en: ["income"], cs: ["příjem"] },
               { en: ["minimum wage"], cs: ["minimální mzda"] },
@@ -983,26 +983,26 @@ export let words = [
                   "mzda (týdenní",
                   " denní",
                   " hodinová",
-                  " většinou za nekvalifikovanou práci)"
-                ]
-              }
-            ]
+                  " většinou za nekvalifikovanou práci)",
+                ],
+              },
+            ],
           },
           {
             name: "Verbs",
             words: [
               { en: ["earn"], cs: ["vydělávat"] },
-              { en: ["pay"], cs: ["platit"] }
-            ]
+              { en: ["pay"], cs: ["platit"] },
+            ],
           },
           {
             name: "Useful expressions",
             words: [
               { en: ["get a pay rise"], cs: ["dostat přidáno"] },
-              { en: ["get paid overtime"], cs: ["dostat zaplacené presčasy"] }
-            ]
-          }
-        ]
+              { en: ["get paid overtime"], cs: ["dostat zaplacené presčasy"] },
+            ],
+          },
+        ],
       },
       {
         name: "At work",
@@ -1019,37 +1019,37 @@ export let words = [
               { en: ["overwork"], cs: ["přepracování"] },
               {
                 en: ["responsible for somebody", "responsible for something"],
-                cs: ["zodpovídat za něco", "zodpovídat za někoho"]
+                cs: ["zodpovídat za něco", "zodpovídat za někoho"],
               },
               { en: ["teamwork"], cs: ["týmová práce"] },
               { en: ["working conditions"], cs: ["pracovní podmínky"] },
-              { en: ["workplace"], cs: ["pracoviště"] }
-            ]
+              { en: ["workplace"], cs: ["pracoviště"] },
+            ],
           },
           {
             name: "Verbs",
             words: [
               {
                 en: ["assist somebody"],
-                cs: ["pomáhat někomu", "asistovat někomu"]
+                cs: ["pomáhat někomu", "asistovat někomu"],
               },
               { en: ["manage"], cs: ["řídit", "zvládat"] },
-              { en: ["work"], cs: ["pracovat"] }
-            ]
+              { en: ["work"], cs: ["pracovat"] },
+            ],
           },
           {
             name: "Useful expressions",
             words: [
               {
                 en: ["be in charge of something"],
-                cs: ["mít na starost", "zodpovídat za něco"]
+                cs: ["mít na starost", "zodpovídat za něco"],
               },
               { en: ["be part of a team"], cs: ["být součástí týmu"] },
               { en: ["be self-employed"], cs: ["samostatně podnikat"] },
               { en: ["be promoted", "get promoted"], cs: ["povýšit"] },
               {
                 en: ["clock in", "clock on"],
-                cs: ["píchnout příchod do práce"]
+                cs: ["píchnout příchod do práce"],
               },
               { en: ["concentrate on something"], cs: ["soustředit se na"] },
               { en: ["deal with people"], cs: ["jednat s lidmi"] },
@@ -1059,11 +1059,11 @@ export let words = [
               { en: ["do physical work"], cs: ["pracovat manuálně"] },
               {
                 en: ["do something for a living", "earn a living"],
-                cs: ["vydělávat si na živobytí"]
+                cs: ["vydělávat si na živobytí"],
               },
               {
                 en: ["do overtime", "work overtime"],
-                cs: ["pracovat přesčas"]
+                cs: ["pracovat přesčas"],
               },
               { en: ["get a job"], cs: ["dostat práci"] },
               { en: ["give somebody a hand"], cs: ["pomáhat někomu"] },
@@ -1075,17 +1075,17 @@ export let words = [
               { en: ["run a business"], cs: ["provozovat podnik"] },
               {
                 en: ["take over duties from somebody"],
-                cs: ["převzít od někoho povinnosti"]
+                cs: ["převzít od někoho povinnosti"],
               },
               { en: ["work as an engineer"], cs: ["pracovat jako inženýr"] },
               { en: ["work for a company"], cs: ["pracovat pro podnik"] },
               { en: ["work from home"], cs: ["pracovat doma"] },
               { en: ["work long hours"], cs: ["pracovat dlouho"] },
               { en: ["work on something"], cs: ["pracovat na něčem"] },
-              { en: ["work shifts"], cs: ["pracovat na směny"] }
-            ]
-          }
-        ]
+              { en: ["work shifts"], cs: ["pracovat na směny"] },
+            ],
+          },
+        ],
       },
       {
         name: "Holidays and days off",
@@ -1097,8 +1097,8 @@ export let words = [
               { en: ["leave"], cs: ["dovolená"] },
               { en: ["maternity leave"], cs: ["mateřská dovolená"] },
               { en: ["paid leave"], cs: ["placená dovolená"] },
-              { en: ["sick leave"], cs: ["pracovní neschopnost"] }
-            ]
+              { en: ["sick leave"], cs: ["pracovní neschopnost"] },
+            ],
           },
           {
             name: "Useful expressions",
@@ -1106,12 +1106,12 @@ export let words = [
               { en: ["be off sick"], cs: ["být na neschopence"] },
               {
                 en: ["take a week's leave"],
-                cs: ["vzít si týdenní dovolenou"]
+                cs: ["vzít si týdenní dovolenou"],
               },
-              { en: ["take a day off work"], cs: ["vzít si den volna"] }
-            ]
-          }
-        ]
+              { en: ["take a day off work"], cs: ["vzít si den volna"] },
+            ],
+          },
+        ],
       },
       {
         name: "People at work",
@@ -1122,8 +1122,8 @@ export let words = [
           { en: ["employer"], cs: ["zaměstnavatel"] },
           { en: ["staff"], cs: ["zaměstnanci"] },
           { en: ["team"], cs: ["skupina", "tým"] },
-          { en: ["worker"], cs: ["dělník"] }
-        ]
+          { en: ["worker"], cs: ["dělník"] },
+        ],
       },
       {
         name: "Employment",
@@ -1140,12 +1140,12 @@ export let words = [
           { en: ["position", "post"], cs: ["pracovní pozice", "postavení"] },
           {
             en: ["profession"],
-            cs: ["profese (zaměstnání s odbornou kvalifikací)"]
+            cs: ["profese (zaměstnání s odbornou kvalifikací)"],
           },
           { en: ["by profession"], cs: ["zaměstnáním"] },
           { en: ["self-employed"], cs: ["samostatně podnikající"] },
-          { en: ["work experience"], cs: ["pracovní zkušenosti"] }
-        ]
+          { en: ["work experience"], cs: ["pracovní zkušenosti"] },
+        ],
       },
       {
         name: "Lack of employment",
@@ -1160,15 +1160,18 @@ export let words = [
               { en: ["unemployment"], cs: ["nezaměstnanost"] },
               { en: ["high unemployment"], cs: ["vysoká nezaměstnanost"] },
               { en: ["low unemployment"], cs: ["nízká nezaměstnanost"] },
-              { en: ["unemployment benefit"], cs: ["dávka v nezaměsatnanosti"] }
-            ]
+              {
+                en: ["unemployment benefit"],
+                cs: ["dávka v nezaměsatnanosti"],
+              },
+            ],
           },
           {
             name: "Verbs",
             words: [
               { en: ["resign"], cs: ["vzdát se funkce", "odstoupit"] },
-              { en: ["retire"], cs: ["jít do důchodu"] }
-            ]
+              { en: ["retire"], cs: ["jít do důchodu"] },
+            ],
           },
           {
             name: "Useful expressions",
@@ -1177,31 +1180,284 @@ export let words = [
                 en: [
                   "fire somebody",
                   "sack somebody",
-                  "give somebody the sack"
+                  "give somebody the sack",
                 ],
-                cs: ["propustit", "vyhodit někoho z práce"]
+                cs: ["propustit", "vyhodit někoho z práce"],
               },
               {
                 en: ["give up", "quit one's job"],
-                cs: ["odejít", "skončit s prací"]
+                cs: ["odejít", "skončit s prací"],
               },
               { en: ["go bankrupt"], cs: ["zbankrotovat"] },
               {
                 en: ["hand in one's resignation"],
-                cs: ["podat rezignaci", "dát výpověď"]
+                cs: ["podat rezignaci", "dát výpověď"],
               },
               { en: ["lose one's job"], cs: ["přijít o práci"] },
               {
                 en: ["make somebody redundant"],
-                cs: ["propustit někoho pro nadbytečnost"]
+                cs: ["propustit někoho pro nadbytečnost"],
               },
-              { en: ["on the dole"], cs: ["být na podpoře"] }
-            ]
-          }
-        ]
-      }
-    ]
-  }
+              { en: ["on the dole"], cs: ["být na podpoře"] },
+            ],
+          },
+        ],
+      },
+    ],
+  },
+  {
+    name: "Chapter 5",
+    words: [
+      { en: ["adopted child"], cs: ["adoptované dítě"] },
+      { en: ["adoption"], cs: ["adopce"] },
+      { en: ["aunt"], cs: ["teta"] },
+      { en: ["brother"], cs: ["bratr"] },
+      { en: ["brother-in-law"], cs: ["švagr"] },
+      { en: ["child"], cs: ["dítě"] },
+      { en: ["children"], cs: ["děti"] },
+      { en: ["cousin"], cs: ["bratranec", "sestřenice"] },
+      { en: ["daughter"], cs: ["dcera"] },
+      { en: ["daughter-in-law"], cs: ["snacha"] },
+      { en: ["ex-husband"], cs: ["bývalá manžel"] },
+      { en: ["ex-wife"], cs: ["bývalá manželka"] },
+      { en: ["family member"], cs: ["člen rodiny"] },
+      { en: ["family tree"], cs: ["rodokmen"] },
+      { en: ["father"], cs: ["otec"] },
+      { en: ["father-in-law"], cs: ["tchán"] },
+      { en: ["foster children"], cs: ["dítě svěřené do opatrovnické péče"] },
+      { en: ["foster parents"], cs: ["pěstouni"] },
+      { en: ["grandchildren"], cs: ["vnuci"] },
+      { en: ["granddaughter"], cs: ["vnučka"] },
+      { en: ["grandfather"], cs: ["dědeček"] },
+      { en: ["grandmother"], cs: ["babička"] },
+      { en: ["grandparents"], cs: ["prarodiče"] },
+      { en: ["grandson"], cs: ["vnuk"] },
+      { en: ["great-grandchildren"], cs: ["pravnuci"] },
+      { en: ["great-granddaugther"], cs: ["pravnučka"] },
+      { en: ["great-grandmother"], cs: ["prababička"] },
+      { en: ["great-grandparents"], cs: ["prarodiče"] },
+      { en: ["great-grandson"], cs: ["pravnuk"] },
+      { en: ["half-brother"], cs: ["nevlastní bratr"] },
+      { en: ["half-sister"], cs: ["nevlastní sestra"] },
+      { en: ["husband"], cs: ["manžel"] },
+      { en: ["mother"], cs: ["matka"] },
+      { en: ["mother-in-law"], cs: ["tchyně"] },
+      { en: ["nephew"], cs: ["synovec"] },
+      { en: ["niece"], cs: ["neteř"] },
+      { en: ["only child"], cs: ["jedináček"] },
+      { en: ["orphan"], cs: ["sirotek"] },
+      { en: ["parents"], cs: ["rodiče"] },
+      { en: ["relative"], cs: ["příbuzný"] },
+      { en: ["siblings"], cs: ["sourozenci"] },
+      { en: ["sister"], cs: ["sestra"] },
+      { en: ["sister-in-law"], cs: ["švagrová"] },
+      { en: ["son"], cs: ["syn"] },
+      { en: ["son-in-law"], cs: ["zeť"] },
+      {
+        en: ["stepbrother"],
+        cs: ["nevlastní bratr (syn otčíma nebo nevlastní matky)"],
+      },
+      { en: ["stepdaughter"], cs: ["nevlastní dcera"] },
+      { en: ["stepfather"], cs: ["otčím"] },
+      { en: ["stepmother"], cs: ["nevlastní matka"] },
+      {
+        en: ["stepsister"],
+        cs: ["nevlastní dcera (dcera otčíma nebo nevlastní matky)"],
+      },
+      { en: ["stepson"], cs: ["nevlastní syn"] },
+      { en: ["twins"], cs: ["dvojčata"] },
+      { en: ["uncle"], cs: ["strýc"] },
+      { en: ["wife"], cs: ["manželka"] },
+      { en: ["anniversary"], cs: ["výročí"] },
+      { en: ["birthday"], cs: ["narozeniny"] },
+      { en: ["birthday cake"], cs: ["narozeninoý dork"] },
+      { en: ["birthday present"], cs: ["dárek k narozenínám"] },
+      { en: ["Christmas"], cs: ["Vánoce"] },
+      { en: ["Christmas card"], cs: ["vánoční přání", "pohlednice"] },
+      { en: ["Christmas Eve"], cs: ["Štědrý den"] },
+      { en: ["Easter"], cs: ["Velikonoce"] },
+      { en: ["family gathering"], cs: ["rodinné setkání"] },
+      { en: ["Father's Day"], cs: ["Den otců"] },
+      { en: ["festival"], cs: ["svátek", "festival"] },
+      { en: ["funeral"], cs: ["pohřeb"] },
+      { en: ["Mother's Day"], cs: ["Den matek"] },
+      { en: ["New Year's Day"], cs: ["Nový Rok"] },
+      { en: ["New Year's Eve"], cs: ["Silvestr"] },
+      { en: ["wedding"], cs: ["svatba"] },
+      { en: ["wedding reception"], cs: ["svatební hostina"] },
+      { en: ["celebrate"], cs: ["slavit"] },
+      { en: ["blow out candles"], cs: ["sfouknout svíčky"] },
+      { en: ["celebrate somebody's birthday"], cs: ["slavit něčí narozeniny"] },
+      { en: ["decorate the Christmas tree"], cs: ["zdobit vánoční stromek"] },
+      { en: ["dress up as"], cs: ["převléci se za"] },
+      { en: ["have a celebration"], cs: ["slavit"] },
+      { en: ["paint eggs"], cs: ["malovat vajíčka"] },
+      { en: ["divorced"], cs: ["rozvedený", "rozvedená"] },
+      { en: ["engaged"], cs: ["zasnoubený", "zasnoubená"] },
+      { en: ["engagement ring"], cs: ["zásnubní prsten"] },
+      { en: ["honeymoon"], cs: ["líbánky"] },
+      { en: ["marriage"], cs: ["manželství"] },
+      { en: ["married"], cs: ["ženatý", "vdaná"] },
+      { en: ["married couple"], cs: ["manželský pár"] },
+      { en: ["pregnant"], cs: ["těhotná"] },
+      { en: ["single"], cs: ["svobodný"] },
+      {
+        en: ["single father"],
+        cs: ["otec, který sám vyhovává dítě", "samoživitel"],
+      },
+      {
+        en: ["single mother"],
+        cs: ["matka, která sama vychovává dítě", "samoživitelka"],
+      },
+      { en: ["be expecting a child"], cs: ["očekávat narození dítěte"] },
+      { en: ["become", "get engaged"], cs: ["zasnoubit"] },
+      { en: ["bring up", "rasi children"], cs: ["vychovávat děti"] },
+      {
+        en: ["get married to somebody", "marry somebody"],
+        cs: ["oženit se", "vdát se"],
+      },
+      {
+        en: ["look after children", "take care of children"],
+        cs: ["starat se o děti"],
+      },
+      { en: ["run away from home"], cs: ["utéct z domova"] },
+      { en: ["entertainment"], cs: ["zábava"] },
+      { en: ["free time"], cs: ["volný čas"] },
+      { en: ["leisure activities"], cs: ["činnosti ve volném čase", "záliby"] },
+      { en: ["weekend plans"], cs: ["plány na víkend"] },
+      { en: ["dance"], cs: ["tančit"] },
+      { en: ["play"], cs: ["hrát"] },
+      { en: ["ask somebody out"], cs: ["pozvat někoho na schůzku"] },
+      { en: ["dress up"], cs: ["elegantně se obléci", "vystrojit se"] },
+      { en: ["go bowling"], cs: ["jít na bowling"] },
+      { en: ["go clubbing"], cs: ["jít do klubů"] },
+      { en: ["go dancing"], cs: ["jít si zatancovat"] },
+      { en: ["go for a walk"], cs: ["jít na procházku"] },
+      { en: ["go out"], cs: ["jít ven"] },
+      { en: ["go out for a meal"], cs: ["jít do restaurace"] },
+      { en: ["go swimming"], cs: ["jít si zaplavat"] },
+      { en: ["go to a concert"], cs: ["jít na koncert"] },
+      { en: ["go to a disco"], cs: ["jít na diskotéku"] },
+      { en: ["go to a party"], cs: ["jít na večírek"] },
+      { en: ["go to the cinema"], cs: ["jít do kina"] },
+      { en: ["have a party"], cs: ["uspořádat večírek"] },
+      {
+        en: ["listen to music", "listen to the radio"],
+        cs: ["poslouchat hudbu", "poslouchat rádio"],
+      },
+      { en: ["look forward to something"], cs: ["těšit se na něco"] },
+      { en: ["meet friends"], cs: ["scházet se s přáteli"] },
+      { en: ["pass time"], cs: ["trávit čas"] },
+      { en: ["play board games"], cs: ["hrát deskové hry"] },
+      { en: ["play cards"], cs: ["hrát karty"] },
+      { en: ["play chess"], cs: ["hrát šachy"] },
+      { en: ["play computer games"], cs: ["hrát počítačové hry"] },
+      { en: ["play the guitar"], cs: ["hrát na kytaru"] },
+      { en: ["play the piano"], cs: ["hrát na piano"] },
+      { en: ["play video games"], cs: ["hrát videohry"] },
+      {
+        en: ["read books", "read comics", "read magazines"],
+        cs: ["číst knížky", "číst komiksy", "číst časopisy"],
+      },
+      { en: ["spend time outdoors"], cs: ["trávit čas venku"] },
+      {
+        en: ["wath a film", "watch a video", "watch TV"],
+        cs: ["dívat se na film", "dívat se na video", "dívat se na televizi"],
+      },
+      { en: ["babysit"], cs: ["hlídat děti"] },
+      { en: ["lie"], cs: ["ležet"] },
+      { en: ["daily routine"], cs: ["denní režim"] },
+      { en: ["eat out"], cs: ["jíst v restauraci"] },
+      { en: ["get dressed"], cs: ["obléci se"] },
+      { en: ["get ready"], cs: ["chystat se", "připravovat se"] },
+      { en: ["get up"], cs: ["vstávat"] },
+      {
+        en: ["go to bed early", "go to bed late"],
+        cs: ["jít brzy spát", "jít pozdě spát"],
+      },
+      { en: ["go to school"], cs: ["jít do školy"] },
+      { en: ["go to work"], cs: ["jít do práce"] },
+      { en: ["have a meal"], cs: ["jíst", "dát si jídlo"] },
+      { en: ["have breakfast"], cs: ["dát si snídani"] },
+      { en: ["have dinner"], cs: ["dát si oběd", "dát si večeři"] },
+      { en: ["have lunch"], cs: ["dát si oběd"] },
+      { en: ["have supper"], cs: ["dát si lehkou večeři"] },
+      { en: ["have tea"], cs: ["dát si svačinu"] },
+      { en: ["have a bath", "take a bath"], cs: ["vykoupat se"] },
+      { en: ["have a rest", "take a rest"], cs: ["odpočinout si"] },
+      { en: ["have a shower", "take a shower"], cs: ["dát si sprchu"] },
+      { en: ["lie down"], cs: ["lehnout si"] },
+      { en: ["lie in"], cs: ["přispat si"] },
+      { en: ["make one's bed"], cs: ["ustlat si postel"] },
+      { en: ["prepare a meal"], cs: ["připravit jídlo"] },
+      { en: ["sweep the floor"], cs: ["zamést podlahu"] },
+      { en: ["take a nap"], cs: ["zdřímnout si"] },
+      { en: ["take the children to school"], cs: ["dovést děti do školy"] },
+      { en: ["take the dog for a walk"], cs: ["vzít psa na procházku"] },
+      {
+        en: ["take turns to do something"],
+        cs: ["střídat se v", "střídat se při"],
+      },
+      { en: ["tidy up one's room"], cs: ["uklidit si pokoj"] },
+      { en: ["wake up"], cs: ["probudit se"] },
+      { en: ["adolescence"], cs: ["dospívání", "adolescence"] },
+      { en: ["adolescent"], cs: ["dospívající", "adolescent"] },
+      { en: ["adult"], cs: ["dospělí"] },
+      { en: ["adulthood"], cs: ["dospělost"] },
+      { en: ["age group"], cs: ["věková skupina"] },
+      { en: ["at the age of"], cs: ["ve věku"] },
+      { en: ["brith"], cs: ["narození"] },
+      { en: ["childhood"], cs: ["dětství"] },
+      { en: ["dead"], cs: ["mrtvý"] },
+      { en: ["death"], cs: ["smrt"] },
+      { en: ["generation"], cs: ["generace"] },
+      { en: ["grown-up"], cs: ["dospělý"] },
+      { en: ["middle age"], cs: ["střední věk"] },
+      { en: ["middle-aged"], cs: ["ve středním věku"] },
+      { en: ["old age"], cs: ["stáři"] },
+      { en: ["youth"], cs: ["mládí"] },
+      { en: ["die"], cs: ["zemřít"] },
+      { en: ["be born"], cs: ["narodit se"] },
+      { en: ["give birth to a child", "have a baby"], cs: ["porodit dítě"] },
+      { en: ["grow up"], cs: ["vyrůst"] },
+      { en: ["boyfriend"], cs: ["přítel"] },
+      { en: ["close friend"], cs: ["blízký přítel"] },
+      { en: ["fiancé"], cs: ["snoubenec"] },
+      { en: ["fiancée"], cs: ["snoubenka"] },
+      { en: ["girlfriend"], cs: ["přítelkyně"] },
+      { en: ["lovebirds"], cs: ["zamilovaní"] },
+      { en: ["be attracked to somebody"], cs: ["cítit náklonnost k někomu"] },
+      {
+        en: ["break up", "split up with somebody"],
+        cs: ["rozejít se s někým"],
+      },
+      {
+        en: ["end a relationship with somebody"],
+        cs: ["ukončit s někým vztah"],
+      },
+      {
+        en: ["enjoy oneself", "have fun", "have a good time"],
+        cs: ["dobře se bavit"],
+      },
+      {
+        en: ["fall out", "have a row", "have an argument"],
+        cs: ["pohádat se"],
+      },
+      { en: ["get divorced"], cs: ["rozvést se"] },
+      { en: ["get on well with somebody"], cs: ["dobře s někým vycházet"] },
+      { en: ["go out with somebody"], cs: ["chodit s někým"] },
+      {
+        en: ["have a bad relationship with somebody"],
+        cs: ["mít s někým špatné vztahy"],
+      },
+      { en: ["have an argument"], cs: ["have a row"] },
+      { en: ["make up with somebody"], cs: ["usmířit se s někým"] },
+      {
+        en: ["start a relationship with somebody"],
+        cs: ["navázat s někým vztah"],
+      },
+    ],
+  },
 ];
 
 interface IWord {
