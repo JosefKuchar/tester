@@ -1233,7 +1233,7 @@ export let words = [
       { en: ["grandparents"], cs: ["prarodiče"] },
       { en: ["grandson"], cs: ["vnuk"] },
       { en: ["great-grandchildren"], cs: ["pravnuci"] },
-      { en: ["great-granddaugther"], cs: ["pravnučka"] },
+      { en: ["great-granddaughter"], cs: ["pravnučka"] },
       { en: ["great-grandmother"], cs: ["prababička"] },
       { en: ["great-grandparents"], cs: ["prarodiče"] },
       { en: ["great-grandson"], cs: ["pravnuk"] },
