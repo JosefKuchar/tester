@@ -1218,7 +1218,7 @@ export let words = [
       { en: ["cousin"], cs: ["bratranec", "sestřenice"] },
       { en: ["daughter"], cs: ["dcera"] },
       { en: ["daughter-in-law"], cs: ["snacha"] },
-      { en: ["ex-husband"], cs: ["bývalá manžel"] },
+      { en: ["ex-husband"], cs: ["bývalý manžel"] },
       { en: ["ex-wife"], cs: ["bývalá manželka"] },
       { en: ["family member"], cs: ["člen rodiny"] },
       { en: ["family tree"], cs: ["rodokmen"] },
