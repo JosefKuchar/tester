@@ -1270,7 +1270,7 @@ export let words = [
       { en: ["wife"], cs: ["manželka"] },
       { en: ["anniversary"], cs: ["výročí"] },
       { en: ["birthday"], cs: ["narozeniny"] },
-      { en: ["birthday cake"], cs: ["narozeninoý dork"] },
+      { en: ["birthday cake"], cs: ["narozeninoý dort"] },
       { en: ["birthday present"], cs: ["dárek k narozenínám"] },
       { en: ["Christmas"], cs: ["Vánoce"] },
       { en: ["Christmas card"], cs: ["vánoční přání", "pohlednice"] },
