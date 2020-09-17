@@ -1,0 +1,292 @@
+break;chléb
+brown bread;tmavý chléb
+white bread;světlý chléb
+wholemeal bread;celozrnný chléb
+breakfast cereal;cereálie,vločky k snídani
+cereal products;výrobky z obilovin
+cornflakes;kukuřičné lupínky
+muesli;müsli
+noodles,pasta;nudle,těstoviny
+rice;rýže
+roll;rohlík
+toast;topinka,toast
+
+butter;máslo
+cheese;sýr
+blue cheese;plísňový sýr
+cottage cheese;cottage,tvarohový sýr
+grated cheese;strouhaný sýr
+Parmesan cheese;parmezán
+dairy products;mléčné výrobky
+egg;vejce
+margarine;margarín
+milkshake;mléčný koktejl
+yoghurt;jogurt
+
+bacon;slanina
+beef;hovězí
+chicken;kuřecí
+ham;šunka
+meat;maso
+pork;vepřové
+sausage;párek,klobása
+turkey;krocan
+
+cod;treska
+fillet;filé
+fish;ryba,ryby
+herring;sleď
+salmon;losos
+sardine;sardinka
+seafood;mořské plody
+shellfish;jedlý korýš
+tuna;tuňák
+
+apple;jablko
+apricot;meruňka
+avocado;avokádo
+banana;banán
+blackcurrant;černý rybíz
+bleuberry;borůvka
+cherry;třešně,višně
+coconut;kokos
+fruit;ovoce
+grapefruit;grep
+grapes;hroznové víno
+kiwi fruit;kiwi
+lemon;citron
+lime;limetka
+mango;mango
+melon;meloun
+orange;pomeranč
+peach;broskev
+pear;hruška
+pineapple;ananas
+plum;švestka
+strawberry;jahoda
+watermelon;vodní meloun
+
+anchovy;ančovička
+asparagus;chřest
+aubergine;baklažán
+beans;fazole
+broccoli;brokolice
+cabbage;kapusta,zelí
+carrot;mrkev
+cauliflower;květák
+calery;celer
+cocumber;okurka
+garlic;česnek
+green peas;hrášek
+lettuce;hlávkový salát
+maize;kukuřice
+mushroom;houba
+onion;cibule
+parsley;petržel
+pepper;paprika
+green pepper;zelená paprika
+red pepper;červená paprika
+potato;brambora
+radish;ředkvička
+spinach;špenát
+sweetcorn;sladká kukuřice
+tomato;rajče
+vegetable;zelenina
+
+apple pie;jablečný koláč
+biscuit,cookie;sušenka
+cake;koláč,dort
+cheesecake;cheesecake,tvarohový koláč
+chocolate;čokoláda
+crisps;čipsy,lupínky
+dessert;moučník
+fruitcake;ovocný koláč,biskupský chlebíček
+honey;med
+pudding;moučník,nákyp
+sweets;sladkosti,cukroví
+
+fat;tuk
+herbs;bylinky
+ketchup;kečup
+mayonnaise;majonéza
+mustard;hořčice
+olive oil;olivový olej
+pepper;pepř
+black pepper;černý pepř
+salad dressing;zálivka,dressing
+salt;sůl
+a pinch of salt;špetka soli
+spice;koření
+sugar;cukr
+tomato sauce;rajčatová omáčka
+vinegar;ocet
+
+beer;pivo
+cocoa;kakao
+coffee;káva
+cola;cola
+drink;nápoj
+fizzy;šumivý nápoj
+soft;nealkoholický nápoj
+juice;šťáva
+tea;čaj
+water;voda
+wine;víno
+
+baked beans;fazole v rajské omáčce
+fish and chips;ryba s hranolky
+mashed potatoes;bramborová kaše
+omelette;omeleta
+pancake;palačinka,lívanec
+salad,salát
+steak,streak,biftek,řízek
+tortilla,tortilla
+
+crunchy;křupavý
+delicious;vynikající,lahodný
+dry,suchý
+fatty;tučný
+fresh;čerstvý
+hot;ostrý,pálivý
+medium;středně propečený
+mild;jemný
+rare;polosyrový,krvavý
+smelly;páchnoucí
+sour;kyselý
+sparkling;perlivý,šumivý
+spicy;pikantní,kořeněný
+stale;okoralý
+still;nesycený,bez bublinek
+strong;silný,výrazný
+sweet;sladký
+tasty;chutný
+weak;slabý
+well-done;dobře propečený
+yummy;chutný
+
+bag;sáček
+bar;tyčinka,tabulka
+bottle;lahev
+box;krabice
+can;plechovka
+carton;papírová kravice,karton
+glass;sklenička
+jar;sklenice
+loaf;bochník
+packet;balíček
+
+bowl;miska
+finely chopped;nadrobno nasekaný
+fork;vidlička
+frying pan;pánev
+ingredient;přísada
+kettle;konvice
+knife;nůž
+leftovers;zbytky jídla
+oven;trouba
+pan;rendlík,kastrol
+pot;hrnec
+recipe;recept
+saucepan;rendlík
+slice;plátek
+spoon;lžíce
+spoonful;plná lžička,lžíce
+tablespoonful;polévková lžíce
+
+add;přidat
+bake;péct
+barbecue;grilovat
+beat;šlehat
+boil;vařit,přivést k varu
+cook;vařit,připravovat
+cut;krájet
+freeze;zmrazit
+fry;smažit
+grate;nastrouhat
+grill;grilovat,připravovat na grilu
+heat;ohřát
+melt;rozpustit
+mix;smíchat,mísit
+peel;oloupat
+pour;nalít
+rise;kynout
+roast;péci
+season;okořenit,ochutit
+slice;nakrájet na plátky
+stir;míchat,zamíchat
+
+chop up;nasekat
+put something on;dát něco na
+
+afternoon tea;odpolední svačina
+barbecue;barbecue,grilování
+breakfast;snídaně
+course;cod
+cutlery;příbor
+dinner;zpravidla večeře,oběd
+lunch;oběd
+meal;jídlo
+packed lunch;obědový balíček
+picnic;piknik
+snack;přesnídávka,svačina
+light snack;lehká svačina
+supper;večeře
+
+calorie;kalorie
+diet;dieta,strava
+vegatarian diet;vegetariánská dieta,vegetariánská strava
+fattening;kalorický
+healthy;zdravé
+mineral;minerálnní látka
+vitamin;vitamín
+weight;váha
+
+be fussy;být vybíravý
+be on a diet;držet dietu
+clear the table;sklidit ze stolu
+cook a meal;uvařit jídlo
+do the washing-up;umýt nádobí
+eat junk food;jíst nezdravé jídlo
+go on a diet;začít držet dietu
+grab a coffee;zhltnout kávu
+grab a bito to eat;dát si rychle něco k jídlu
+have a meal;dát si jídlo
+have a sweet tooth;být na sladké
+have an appetite;mít chuť k jídlu
+high in something;obsahovat v sobě hodně něčeho
+lay the table;prostřít stůl
+lose weight;zhubnout
+low in something;obsahovat málo něčeho
+put on weight;přibrat
+vegetarian food;vegetariánské jídlo
+watch one's weight;sledovat svou váhu,hlídat svou váhu
+
+bill;účet
+buffet car;jídelní vůz
+café;kavárna
+canteen,cafeteria;jídelna
+dish;jídlo,pokrm
+fast food restaurant;rychlé občersvení
+main course;hlavní chod
+menu;jídelní lístek
+napkin,serviette;ubrousek
+order;objednávka
+pub;hospoda
+self-service restaurant;samoobslužná restaurace
+service;obsluha
+starter;předkrm
+tablecloth;ubrus
+takeaway;jídlo s sebou
+tip;spropitné
+waiter;číšník
+waitress;servírka
+wine list;vinný lístek
+
+order;objednat
+serve;oblushovat
+
+book a table;zarezervovat stůl
+eat out;jíst v restauraci
+leave a tip;nechat spropitné
+
+
