@@ -10,7 +10,6 @@ noodles,pasta;nudle,těstoviny
 rice;rýže
 roll;rohlík
 toast;topinka,toast
-
 butter;máslo
 cheese;sýr
 blue cheese;plísňový sýr
@@ -22,7 +21,6 @@ egg;vejce
 margarine;margarín
 milkshake;mléčný koktejl
 yoghurt;jogurt
-
 bacon;slanina
 beef;hovězí
 chicken;kuřecí
@@ -31,7 +29,6 @@ meat;maso
 pork;vepřové
 sausage;párek,klobása
 turkey;krocan
-
 cod;treska
 fillet;filé
 fish;ryba,ryby
@@ -41,7 +38,6 @@ sardine;sardinka
 seafood;mořské plody
 shellfish;jedlý korýš
 tuna;tuňák
-
 apple;jablko
 apricot;meruňka
 avocado;avokádo
@@ -65,7 +61,6 @@ pineapple;ananas
 plum;švestka
 strawberry;jahoda
 watermelon;vodní meloun
-
 anchovy;ančovička
 asparagus;chřest
 aubergine;baklažán
@@ -92,7 +87,6 @@ spinach;špenát
 sweetcorn;sladká kukuřice
 tomato;rajče
 vegetable;zelenina
-
 apple pie;jablečný koláč
 biscuit,cookie;sušenka
 cake;koláč,dort
@@ -104,7 +98,6 @@ fruitcake;ovocný koláč,biskupský chlebíček
 honey;med
 pudding;moučník,nákyp
 sweets;sladkosti,cukroví
-
 fat;tuk
 herbs;bylinky
 ketchup;kečup
@@ -120,7 +113,6 @@ spice;koření
 sugar;cukr
 tomato sauce;rajčatová omáčka
 vinegar;ocet
-
 beer;pivo
 cocoa;kakao
 coffee;káva
@@ -132,19 +124,17 @@ juice;šťáva
 tea;čaj
 water;voda
 wine;víno
-
 baked beans;fazole v rajské omáčce
 fish and chips;ryba s hranolky
 mashed potatoes;bramborová kaše
 omelette;omeleta
 pancake;palačinka,lívanec
-salad,salát
-steak,streak,biftek,řízek
-tortilla,tortilla
-
+salad;salát
+steak;steak,biftek,řízek
+tortilla;tortilla
 crunchy;křupavý
 delicious;vynikající,lahodný
-dry,suchý
+dry;suchý
 fatty;tučný
 fresh;čerstvý
 hot;ostrý,pálivý
@@ -163,7 +153,6 @@ tasty;chutný
 weak;slabý
 well-done;dobře propečený
 yummy;chutný
-
 bag;sáček
 bar;tyčinka,tabulka
 bottle;lahev
@@ -174,7 +163,6 @@ glass;sklenička
 jar;sklenice
 loaf;bochník
 packet;balíček
-
 bowl;miska
 finely chopped;nadrobno nasekaný
 fork;vidlička
@@ -192,7 +180,6 @@ slice;plátek
 spoon;lžíce
 spoonful;plná lžička,lžíce
 tablespoonful;polévková lžíce
-
 add;přidat
 bake;péct
 barbecue;grilovat
@@ -214,10 +201,8 @@ roast;péci
 season;okořenit,ochutit
 slice;nakrájet na plátky
 stir;míchat,zamíchat
-
 chop up;nasekat
 put something on;dát něco na
-
 afternoon tea;odpolední svačina
 barbecue;barbecue,grilování
 breakfast;snídaně
@@ -231,7 +216,6 @@ picnic;piknik
 snack;přesnídávka,svačina
 light snack;lehká svačina
 supper;večeře
-
 calorie;kalorie
 diet;dieta,strava
 vegatarian diet;vegetariánská dieta,vegetariánská strava
@@ -240,7 +224,6 @@ healthy;zdravé
 mineral;minerálnní látka
 vitamin;vitamín
 weight;váha
-
 be fussy;být vybíravý
 be on a diet;držet dietu
 clear the table;sklidit ze stolu
@@ -260,7 +243,6 @@ low in something;obsahovat málo něčeho
 put on weight;přibrat
 vegetarian food;vegetariánské jídlo
 watch one's weight;sledovat svou váhu,hlídat svou váhu
-
 bill;účet
 buffet car;jídelní vůz
 café;kavárna
@@ -281,12 +263,8 @@ tip;spropitné
 waiter;číšník
 waitress;servírka
 wine list;vinný lístek
-
 order;objednat
 serve;oblushovat
-
 book a table;zarezervovat stůl
 eat out;jíst v restauraci
 leave a tip;nechat spropitné
-
-
