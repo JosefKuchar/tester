@@ -1,0 +1,94 @@
+antique shop;starožitnictví
+baker's,bakery;pekařství
+bookshop;knihupectví
+boutique;butik
+butcher's;řeznictví
+chain store;obchodní řetězec
+charity shop;prodejna charity
+chemist's,pharmacy;lékarna
+clothes shop;obchod s oděvy
+delicatessen;lahůdky
+department store;obchodní dům
+DIY store;obchod s potřebami pro kutily
+fashion boutique;butik s módním zbožím
+fishmonger's;prodejna ryb
+florist's,flower shop;květinářství
+furniture shop;obchod s nábytkem
+garden centre;zahradnické centrum
+greengrocer's,fruit and veg shop;obchod s ovocem a zeleninou
+hardware shop;železářství
+health food shop;obchod se zdravou výživou
+jeweller's;klenotnictví
+market;trh,tržiště
+farmers' market
+music shop;obchod s hudebninami
+newsagent's;novinový stánek,trafika
+off-licence;prodejna alkoholických nápojů
+pet shop;chovatelské potřeby
+second-hand shop;obchod s použitým zbožím,bazar
+shoe shop;obchod s obuví
+shopping centre,shipping mall;nákupní centrum
+sports shop;sportovní zboží
+stationer's;papírnictví
+supermarket;supermarket
+
+aisle;ulička mezi regály
+bar code;čárový kód
+basket;košík
+checkout,till;pokladna
+checkout assistant,cashier;pokladní
+convenience food;hotová jídla
+conveyor belt;pohyblivý pás u pokladny
+pet food;krmivo pro domácí mazlíčky
+shelf;police,regál
+tinned food;konzervy
+toiletries;toaletní potřeby
+trolley;nákupní vozík
+
+baby chaing facilities;prostory pro přebalování dětí
+cheap;levný
+choice;výběr
+counter;pult
+customer;zákazník
+department;oddělení
+escalator;eskalátor,pojízdné schody
+expensive;drahý
+for sale;na prodej
+on sale;ve výprodeji
+queue;fronta
+
+range of products;výběr,rozsah výrobků
+second-hand;použitý,zánovní
+shop assistant;prodavač
+shopaholic;člověk posedlý nakupováním
+shopper;nakupující
+shopping bag;nákupní seznam
+stall;stánek
+
+gift-wrap;zabalit jako dárek
+purchase;zakoupit
+queue;stát ve frontě
+
+Can I help you?;Mohu vám nějak pomoci?,Mohu vám nějak poradit?
+pick a product off a shelf;vybrat si zobží z regálu
+
+broken;rozbitý
+complaint;reklamace
+dissatisfied;nespokojený
+faulty;vadný,kazový
+past the sell-by date;s prošlým datem doporučeného prodeje
+receipt;účtenka,paragon
+replacement;výměna zboží
+return;vrátit
+scratched;poškrábaný
+
+exchange;vyměnit
+replace;nahradit
+work;fungovat,pracovat
+
+get a refund,get your money back;dostat zpátky peníze
+give refunds;vracet peníze
+keep crashing;stále nefungovat,opakovaně nefungovat
+make a complaint;reklamovat
+return something;take something back;vrátit,odnést zpátky
+talk to the manager;promluvit si s vedoucím
