@@ -92,3 +92,109 @@ keep crashing;stále nefungovat,opakovaně nefungovat
 make a complaint;reklamovat
 return something;take something back;vrátit,odnést zpátky
 talk to the manager;promluvit si s vedoucím
+changing room,fitting room;zkušební kabinky
+designer clothes;značkové oblečení
+fashion;móda
+fashion accesories;módní doplňky
+fashion label;módní značka
+the latest fashions;poslední móda,nejnovější móda
+fashionable;módní
+label;značka
+designer label;návrhářská módní značka
+last year's model;loňský model
+men's wear;pánská móda
+outfit;oblčení,komplet
+size;velikost
+the right size;správna velikost
+too loose;příliš volný
+too small;příliš malý
+too tight;příliš těsný
+trendy;módní
+women's wear;dámská móda
+
+fit;dobře padnout,sedět
+match;hodit se
+suit;slušet
+
+go shopping;jít nakupovat
+I'm size 38;mám velikost 38
+look for something;hledat něco
+shop for clothes;nakupovat oblečení
+try something on;vyzkoušet si něco na sobě
+
+bank;banka
+car wash;automyčka
+daycare centre for children;zařízení denní péče o děti (školka, jesle)
+dry cleaner's;chemická čistírna
+eatery;jídelna
+food court;zóna s rychlým občerstvením,zóna s restaracemi
+garage;autoservis,garáž
+hairdresser's;kadeřnictví
+launderette;samoobslužná prádelna
+laundry;prádelna
+petrol station;čerpací stanice
+photographer's;fotograf
+post office;pošta
+service station;servisní stanice,autoservis
+services;služby
+shoe repairs;opravna obuvi
+50 per cent discount,50 per cent off;padesátiprocentní sleva
+bergain;výhodná koupě
+deal;obchod,dohoda
+great reductions;velké snížení cen
+price;cena
+a fair price;rozumná cena
+half price;poloviční cena
+sale;výprodej
+special offer;výhodná cena
+on special offer;za výhodnou cenu
+
+be reduced from 100 pounds to 50 pounds;zlevněný ze 100 liber na 50
+buy something in a sale;koupit něco ve výprodeji
+buy two, get one free;dva za cenu jednoho
+
+ATM (automatic teller machine),cash machine;bankomat
+cash;hotovost
+cheque;šek
+credit card;kreditní karta
+
+pay;platit
+accept credit cards,take credit cards;přijímat karty,brát karty
+enter you PIN;vložit PIN
+get money out of a cash machine;vybrat peníze z bankomatu
+not have enough cash on oneself;nemít při sobě dostatečnou hotovost
+pay by cheque;platit šekem
+pay by credit card;platit kartou
+pay in cash;platit hotově
+
+ad,advert,advertisement;reklama
+advertising campaign;reklamní kampaň
+billboard,hoarding;billboard
+brand,make;značka
+brand name;obchodní značka
+brochure;reklamní brožura
+classified ad;reklamní inzerát
+commercial;televizní reklama,rozhlasová reklama
+jingle;znělka
+leaflet;leták
+logo;logo
+peer pressure;vliv vrstevníků,tlak vrstevníků
+poster;plakát
+slogan;reklamní heslo,slogan
+
+advertise;propagovat,dělat reklamu
+
+attract the crowds;lákat davy
+place an advertisement;uveřejnit reklamu
+
+consumer;spotřebitel
+consumer society;konzumní společnost
+consumerism;konzumerizmus,zaměření na spotřebu
+consumption;spotřeba
+free market;volný trh
+goods;zboží
+product;výrobek
+profit;zisk
+protectionism;ochranářství,celní ochrana
+trade;obchod
+
