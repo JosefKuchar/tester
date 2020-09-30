@@ -1819,7 +1819,7 @@ export let words = [
       { en: ['give refunds'], cs: ['vracet peníze'] },
       { en: ['keep crashing'], cs: ['stále nefungovat', 'opakovaně nefungovat'] },
       { en: ['make a complaint'], cs: ['reklamovat'] },
-      { en: ['return something'], cs: ['take something back'] },
+      { en: ['take something back', 'return something'], cs: ['vrátit', 'odnést zpátky'] },
       { en: ['talk to the manager'], cs: ['promluvit si s vedoucím'] },
       { en: ['changing room', 'fitting room'], cs: ['zkušební kabinky'] },
       { en: ['designer clothes'], cs: ['značkové oblečení'] },
