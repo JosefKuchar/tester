@@ -20,7 +20,7 @@ hardware shop;železářství
 health food shop;obchod se zdravou výživou
 jeweller's;klenotnictví
 market;trh,tržiště
-farmers' market
+farmers' market;farmářský trh
 music shop;obchod s hudebninami
 newsagent's;novinový stánek,trafika
 off-licence;prodejna alkoholických nápojů
@@ -31,7 +31,6 @@ shopping centre,shipping mall;nákupní centrum
 sports shop;sportovní zboží
 stationer's;papírnictví
 supermarket;supermarket
-
 aisle;ulička mezi regály
 bar code;čárový kód
 basket;košík
@@ -44,7 +43,6 @@ shelf;police,regál
 tinned food;konzervy
 toiletries;toaletní potřeby
 trolley;nákupní vozík
-
 baby chaing facilities;prostory pro přebalování dětí
 cheap;levný
 choice;výběr
@@ -56,7 +54,6 @@ expensive;drahý
 for sale;na prodej
 on sale;ve výprodeji
 queue;fronta
-
 range of products;výběr,rozsah výrobků
 second-hand;použitý,zánovní
 shop assistant;prodavač
@@ -64,14 +61,11 @@ shopaholic;člověk posedlý nakupováním
 shopper;nakupující
 shopping bag;nákupní seznam
 stall;stánek
-
 gift-wrap;zabalit jako dárek
 purchase;zakoupit
 queue;stát ve frontě
-
 Can I help you?;Mohu vám nějak pomoci?,Mohu vám nějak poradit?
 pick a product off a shelf;vybrat si zobží z regálu
-
 broken;rozbitý
 complaint;reklamace
 dissatisfied;nespokojený
@@ -81,11 +75,9 @@ receipt;účtenka,paragon
 replacement;výměna zboží
 return;vrátit
 scratched;poškrábaný
-
 exchange;vyměnit
 replace;nahradit
 work;fungovat,pracovat
-
 get a refund,get your money back;dostat zpátky peníze
 give refunds;vracet peníze
 keep crashing;stále nefungovat,opakovaně nefungovat
@@ -111,17 +103,14 @@ too small;příliš malý
 too tight;příliš těsný
 trendy;módní
 women's wear;dámská móda
-
 fit;dobře padnout,sedět
 match;hodit se
 suit;slušet
-
 go shopping;jít nakupovat
 I'm size 38;mám velikost 38
 look for something;hledat něco
 shop for clothes;nakupovat oblečení
 try something on;vyzkoušet si něco na sobě
-
 bank;banka
 car wash;automyčka
 daycare centre for children;zařízení denní péče o děti (školka, jesle)
@@ -148,16 +137,13 @@ half price;poloviční cena
 sale;výprodej
 special offer;výhodná cena
 on special offer;za výhodnou cenu
-
 be reduced from 100 pounds to 50 pounds;zlevněný ze 100 liber na 50
 buy something in a sale;koupit něco ve výprodeji
 buy two, get one free;dva za cenu jednoho
-
 ATM (automatic teller machine),cash machine;bankomat
 cash;hotovost
 cheque;šek
 credit card;kreditní karta
-
 pay;platit
 accept credit cards,take credit cards;přijímat karty,brát karty
 enter you PIN;vložit PIN
@@ -166,7 +152,6 @@ not have enough cash on oneself;nemít při sobě dostatečnou hotovost
 pay by cheque;platit šekem
 pay by credit card;platit kartou
 pay in cash;platit hotově
-
 ad,advert,advertisement;reklama
 advertising campaign;reklamní kampaň
 billboard,hoarding;billboard
@@ -181,12 +166,9 @@ logo;logo
 peer pressure;vliv vrstevníků,tlak vrstevníků
 poster;plakát
 slogan;reklamní heslo,slogan
-
 advertise;propagovat,dělat reklamu
-
 attract the crowds;lákat davy
 place an advertisement;uveřejnit reklamu
-
 consumer;spotřebitel
 consumer society;konzumní společnost
 consumerism;konzumerizmus,zaměření na spotřebu
@@ -197,4 +179,3 @@ product;výrobek
 profit;zisk
 protectionism;ochranářství,celní ochrana
 trade;obchod
-
