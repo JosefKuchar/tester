@@ -1876,7 +1876,7 @@ export let words = [
       { en: ['on special offer'], cs: ['za výhodnou cenu'] },
       { en: ['be reduced from 100 pounds to 50 pounds'], cs: ['zlevněný ze 100 liber na 50'] },
       { en: ['buy something in a sale'], cs: ['koupit něco ve výprodeji'] },
-      { en: ['buy two', ' get one free'], cs: ['dva za cenu jednoho'] },
+      { en: ['buy two, get one free'], cs: ['dva za cenu jednoho'] },
       { en: ['ATM (automatic teller machine)', 'cash machine'], cs: ['bankomat'] },
       { en: ['cash'], cs: ['hotovost'] },
       { en: ['cheque'], cs: ['šek'] },
