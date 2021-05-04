@@ -1,0 +1,78 @@
+bicycle,bike;kolo
+boat;loď
+bus;autobus
+coach;autokar,dálkový autobus
+double decker bus;dvoupatrový autobus
+ferry;trajekt
+lorry,truck;nákladní auto
+meansof transport;dopravní prostředek
+minibus;mikrobus
+motorbike,motorcycle;motocykl
+plane;letdlo
+taxi,cab;taxi
+train;vlak
+underground,subway;metro
+van;dodávka
+yacht;jachta
+arrival;přílet,příjezd
+backpack,rucksack;batoh
+baggage,luggage;zavazadlo,zavazadla
+business trip;služební cesta,pracovní cesta
+commuter;osoba, která pravidelně dojíždí za prací
+delay;zpoždění
+delayed;zpožděný
+departure;odlet,odjezd
+destination;cíl cesty,místo pobytu
+explorer;průzkumník,badatel
+excursion;výprava,exkurze
+fare;jízdné
+journey,trip;cesta,výlet
+left luggage office;úschovna zavazadel
+luggage trolley;vozík na zavazadla
+on board;na palubě
+pass;propustka
+passenger;cestující
+suitcase;kufr
+ticket;jízdenka,lístek
+first class ticket;jízdenka do první třídy,lístek do první třídy
+monthly;měsíční jízdenka
+return ticket;zpáteční jízdenka
+second class ticket;jízdenka do druhé třídy,lístek do druhé třídy
+single ticket;jenosměrná jízdenka
+ticket office;pokladna,prodej jízdenek
+timetable;jízdní řád
+brakes;brzdy
+crossroads,junction;křižovatka,dopravní uzel,sjezd z
+cycle lane,bike lane;jízdní pruh pro cyklisty
+cycle path,bike path;cyklistická stezka
+fine,ticket;pokuta
+flat tyre,puncture;prázdná pneumatika,píchnutá pneumatika,defekt
+motorway,highway;dálnice
+pavement;chodník
+pedestrian;chodec
+pretrol station;benzínová pumpa
+red light;červená
+right of way;přednost v jízdě
+road;cesta,vozovka
+main road;hlavní silnice
+minor road;boční silnice
+road sign;dopravní značka
+road travel;silvníční doprava
+cestování po silnici
+roundabout;kruhový objezd
+speed limit;omezení rychlosti,maximální rychlost
+speeding;rychlá jízdm,překročení povolené rychlosti
+fraffic;dopravní ruch,provoz
+traffic congestion;dopravní zácpa
+traffic jam;zácpa
+traffic lights;semafor
+zebra crossing;přechod pro chodce,zebra
+air travel;cesta letadlem
+airline;aerolinie,letecká dopravní společnost
+budget airline;nízkorozpočtové aerolinie
+airport;letiště
+baggage reclaim;výdej zavazadel
+belt;pás
+boarding card,boarding pass;palubní lístek,palubní vstupenka
+cabin crew;palubní personál,posádka
+check-in desk;odbavovací přepážka

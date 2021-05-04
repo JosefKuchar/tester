@@ -1,0 +1,117 @@
+beard;vousy,bradka
+black;černý
+board game;desková hra
+bowling;bowling
+brown;hnědý
+canteen;jídelna
+chemistry;chemie
+chess;šachy
+classroom;třída
+coat;kabát
+corridor;chodba
+curly;kudrnatý
+dance;tanec
+dark;tmavý
+desk;školní lavice
+drama;divadlo,dramatická výchova
+drawing;kreslení
+fair;světlý
+geography;zeměpis
+gym;tělocvična
+hair;vlasy
+hall;hala,předsíň
+hat;klobouk
+homework;domácí úkol
+ice skating;bruslení na ledě
+interactive whiteboard;interaktivní tabule
+IT;informatika
+jacket;bunda
+jumper;svetr
+laptop;notebook
+leggings;legíny
+long;dlouhý
+moustache;knír
+music;hudba
+noticeboard;nástěnka
+PE;tělocvik
+picnic;piknik
+playing field;hřiště
+reception;recepce
+red;červený
+shirt;košile
+short;krátký
+skateboarding;jízda na skateboardu
+staff room;sborovna
+straight;rovný
+sweatshirt;mikina
+textbook;učebnice
+tie;kravata
+trousers;kalhoty
+video games;video hry
+walk;procházka
+wavy;vlnitý
+whiteboard;bílá tabule
+a bit;trochu
+a little bit;trošku
+annoyed;rozladěný,otravný
+annoying;otravný,protivný
+anxious;nervózní,znepokojený
+ashamed;zahanbený
+ask for;žádat o
+bleed;krvácet
+blood;krev
+bored;znuděný
+boring;nudný
+break your arm;zlomit si paži
+broken arm;zlomená paže
+bruise;modřina,podlitina,potlouct se
+burn;spálit se,popálit se
+confused;zmatený
+confusing;matoucí
+cross;naštvaný,mrzutý,podrážděný
+cut;řezná rána,říznout se
+delighted;nadšený,potěšený
+disappointed;zklamaný
+disgusted;znechucený
+disgusting;nechutný
+embarrassed;v rozpacích,rozpačitý
+embarrassing;trapný
+envious;závistivý
+excited;vzrušený
+exhausted;vyčerpaný
+exhausting;vyčerpávající
+extremely;nesmírně
+fall over;upadnout
+find out;zjistit
+frightened;vystrašený
+frightening;strašidelný
+get over;dostat se z,překonat
+hurt;bolet,zranit
+injure yourself;poranit se
+injury;zranění
+interested;zaujatý,mající zájem
+interesting;zajímavý
+look at;podívat se na
+own up;přiznat se,kápnout božskou
+pain;bolest
+proud;pyšný
+put back;vrátit se na své místo
+rather;docela
+relieved;uvolněný,zbavený napětí
+satisfied;spokojený
+satisfying;uspokojivý
+shocked;šokovaný
+shocking;šokující
+slip over;uklouznout
+sprain;výron,vyvrtnout si
+surprised;překvapený
+surprising;překvapivý
+suspicious;podezíravý
+talk about;mluvit o
+tired;unavený
+tiring;únavný
+trip over;zakopnout
+upset;naštvaný,rozzlobený
+very;velmi
+worried;ustaraný,mající obavy
+worrying;znepokojivý
