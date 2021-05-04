@@ -1,0 +1,69 @@
+aluminium;hliník
+apologise;omluvit se
+arrange;uspořádat
+arrangement;uspořádání
+bald;plešatý
+baldness;plešatost
+base;podložka,základna
+battery;baterie
+broken;rozbitý
+cardboard;kartón,lepenka
+cement;cement
+ceramic;keramika
+challange;vyzvat,vybízet k něčemu
+circular;kruhový
+comfort;utěšovat
+complain;stěžovat si
+copper;měď
+cordless;bezdrátový
+credit note;dobropis
+curved;zahnutý,zakřivený
+deaf;hluchý
+deafness;hluchota
+demonstrate;ukázat,předvést
+demonstration;ukázka
+describe;popsat
+encourage;povzbudit
+enquire;ptát se
+glass;sklo
+gold;zlato
+handle;klika,držadlo
+inform;informovat
+invent;vynalézt
+invention;vynález
+inventor;vynálezce
+iron;železo
+leather;kůže
+lid;poklice
+mains;elektrická síť
+movement;pohyb
+nylon;nylon
+paper;papír
+persuade;přesvědčit
+plastic;plast
+problem;problém
+rechargeable;dobíjecí
+recommend;doporučit
+reconstruct;opravit,předělat,zrekonstruovat
+reconstruction;rekonstrukce,oprava
+record;nahrávat
+recording;nahrávka,záznam
+rectangular;obdelníkový
+rediscover;znovuobjevit
+rediscovery;znovuobjevení
+repair;oprava,opravit
+rubber;guma
+solar-powered;na sluneční energii
+spherical;kulatý,kulovitý
+square;čtvercový
+steel;ocel
+stone;kámen
+tell a story;vyprávět příběh
+thank;děkovat,poděkovat
+treat;léčit
+treatment;léčba
+triangular;trojúhelníkový
+warn;varovat
+welcome;přivítat
+wheels;kola
+wood;dřevo

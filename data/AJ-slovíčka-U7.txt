@@ -1,0 +1,73 @@
+admit;přiznat,připustit
+afford;dovolit si
+avoid;vyhnout se
+baker's;pekařství
+bank;banka
+bargain;výhodná koupě
+be short of;mít nedostatek
+borrow;vypůjčit si
+butcher's;řeznictví
+buy;koupit
+CEO;výkonný ředitel
+charge;naúčtovat
+charity shop;charitativní obchod
+chemist's;drogerie
+choose;zvolit,vybrat
+clothes shop;obchod s oblečením
+coffee shop;kavárna
+contract;smlouva
+cosmetics store;obchod s kosmetikou
+cost;stát
+coupon;kupón
+decide;rozhodnout se
+deli;obchod s lahůdkami
+discount;sleva
+DIY store;obchod pro kutily
+end up;skončit
+enjoy;bavit,užívat si
+entrepreneur;podnikatel
+estate agent's;realitní kancelář
+expect;předpokládat,očekávat
+fail;nedokázat,selhat
+fancy;mít rád,chtít
+florist's;květinářství
+funding;financování,zdroj financí
+garden centre;zahradní centrum
+get a refund;dostat peníze zpět
+give a refund;vrátit peníze
+greengrocer's;obchod s ovocem a zeleninou
+hairdresser's;kadeřnictví
+income;příjem
+investor;investor
+jeweller's;klenotnictví
+keep;pokračovat,nechat
+launderette;prádelna
+lend;půjčit
+lose;ztratit
+mind;vadit
+newsagent's;trafika
+offer;nabízet
+optician's;optika
+owe;dlužit
+pay;platit
+post-office;pošta
+prefer;dávat přednost,mít raději
+pretend;předstírat
+price tag;cenovka,štítek s cenou
+profits;zisky
+promise;slíbit
+receipt;účtenka
+refund;vrácení peněz
+refuse;odmítnout
+run out;dojít
+salary;plat
+sale;výprodej
+save;šetřit,ušetřit,uložit
+save up;šetřit na něco
+sell;prodat,prodávat
+shoe shop;obchod s obuví
+special offer;speciální nabídka
+spend;utratit,trávit
+stationer's;papírnictví
+takeaway;bufet s jídlem k odnesení
+waste;plýtvat
