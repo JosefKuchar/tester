@@ -1,0 +1,43 @@
+architect;architekt
+badly-paid;špatně placený
+builder;stavař,stavitel
+challenging;náročný,podnětný
+cleaner;uklízeč
+creative;tvořivý,kreativní
+dentist;zubař
+engineer;technik,mechanik
+enthusiastic;nadšený
+estate agent;realitní makléř
+farm worker;dělník,dělnice na statku
+flexible;přizpůsobivý,pružný
+friendly;přátelský
+gardener;zahradník;zahradnice
+good at communicating;dobrý v komunikaci
+groundskeeper;správce parku,stadionu
+hairdresser;kadeřník
+hard-working;pracovitý
+journalist;novinář
+locksmith;zámečník
+paramedic;záchranář
+photographer;fotograf
+physically fit; tělesně zdatný
+pilot;pilot
+pizza delivery man;roznašeč pizzy
+police officer;policista
+programmer;programátor
+receptionist;recepční
+reliable;spolehlivý
+repetitive;opakující
+rewarding;uspokojující, dobře hodnocený
+sales assistant;prodavač
+solicitor;advokát,právní zástupce
+sport coach;sportovní trenér
+stressful;stresující
+stunt performer;kaskadér
+surfing instructor;instruktor surfování
+travel agent;pracovník,cestovní kanceláře
+varied;různorodý
+video game developer;tvůrce video her
+waiter;číšník
+well-paid;dobře placený
+

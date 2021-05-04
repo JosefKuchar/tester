@@ -1,0 +1,85 @@
+affordable;cenově přijatelný
+appeal;vyzývat,odvolávat se,zamlouvat se
+arson;žhářství
+arsonist;žhář
+balaclava;kukla
+break into something;vloupat se někam
+burglar;lupič
+burglary;loupež
+burgle;vyloupit
+cards;karty
+careless;lehkomyslný,neopatrný
+chewing gum;žvýkačka
+childish;dětinský
+cowardly;zbabělý
+damage;poškodit,zničit
+dangerous;nebezpečný
+deal drugs;prodávat drogy
+dental records;zubní záznamy
+drinkable;pitný,vhodný k pití
+drug dealer;drogový dealer
+drug-dealing;prodej drog
+economical;šetrný,úsporný
+enjoyable;zábavný
+fingerprints;otisky prstů
+foolish;hloupý,bláhový
+furious;naštvaný,rozzuřený
+grab;chytit,chňapnout
+greenish;dozelena
+handbag;kabelka
+hold on;držet,mít strpení
+hopeful;plný naděje
+identify;identifikovat,rozpoznat
+interview;rozhovor,vyslýchat
+kill;zabít
+launch;zahájit
+lean;naklonit se
+loot;drancovat,rabovat
+looter;drancovník
+looting;rabování
+lucky;mající štěstí
+magical;kouzelný
+mug;přepadnout
+mugger;násilník
+mugging;přepadení
+murder;vražda,vraždit
+murder investigation;vyšetřování vraždy
+murderer;vrah
+mysterious;záhadný
+national;národní
+open-top car;auto s otevřenou střechou
+painful;bolestivý
+painless;bezbolestný
+patrol;hlídat
+pull;tahat,vytáhnout
+rob;vykrást,vyloupit
+robber;lupič
+robbery;loupež
+run away;útect
+search;prohledat
+secret code;tajný kód
+selfish;sobecký
+selfless;obětavý,nesobecký
+set fire to something;zapálit něco
+shoplift;krást v obchodě
+shoplifter;zloděj v obchodě
+smuggle;pašovat
+smuggler;pašerák
+smuggling;pašování
+snatch;popadnout
+steal;ukrást
+strap;popruh,řemínek
+study;studovat
+subway;podchod,podzemní dráha
+table tennis;stolní tenis
+tasteless;bez chuti,nevkusný
+telephone number;telefonní číslo
+theft;krádež
+thief;zloděj
+train ticket;lístek na vlak
+vandal;vandal
+vandalise;demolovat ničit
+vandalism;vandalismus
+water park;vodní park
+weekly;týdně
+

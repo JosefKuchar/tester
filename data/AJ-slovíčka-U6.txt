@@ -1,0 +1,77 @@
+aquarium;akvárium,vodní svět
+art gallery;umělecká galerie
+atmospheric;mající svoji atmosféru
+backpack;batoh,krosna
+bag drop;místo pro odbavení zavazadel
+baggage carousel;jezdící pás pro vyzvednutí zavazadel
+beautiful;krásný
+boarding pass;palubní lístek
+boat trip;výlet lodí
+botanical garden;botanická zahrada
+busy;rušný
+cabin crew;palubní personál
+campsite;kemp,tábořiště
+carnival;karneval
+castle;hrad,zámek
+cathedral;katedrála
+cheap;levný
+check-in desk;odbavovací přepážka
+concert;koncert
+crowded;přelidněný,plný lidí
+departure lounge;odletová hala
+disappointing;neuspokojivý,působící zklamání
+double room;dvoulůžkový pokoj
+economy class;ekonomická třída
+expensive;drahý
+festival;festival
+flight attendant;letuška,stevard
+flight number;číslo letu
+fountain;fontána
+full board; plná penze
+full-time;na plný úvazek
+half board;polopenze
+hand luggage;příruční zavazadlo
+harbour;přístav
+high season;hlavní sezóna
+hire a bike;pronajmout si kolo
+historic;historický
+kayaking;jízda na kajaku
+low season;vedlejší sezóna
+market;trh
+monument;památka,památník
+mosque;mešita
+mountain biking;jízda na horském kole
+museum;muzeum
+national park;národní park
+old town;staré město
+online check-in;odbavení online
+opera house;budova opery
+palace;palác
+park;park
+part-time;na částečný úvazek
+passport control;pasová kontrola
+peaceful;klidný,pokojný
+penpal;kamarád na dopisování
+restaurant;restaurace
+romantic;romantický
+ruins;ruiny,rozvaliny
+safari park;safari zoo
+seat belt;bezpečnostní pás
+security camera;bezpečnostní kamera
+security check;bezpečnostní kontrola
+shopping district;nákupní zóna
+single room;jednolůžkový pokoj
+souvenirs;suvenýry
+square;náměstí
+statue;socha
+sunburn;úpal,spálení sluncem
+suncream;krém na opalování
+sunglagges;sluneční brýle
+temple;chrám
+theatre;divadlo
+theme park;zábavní park
+touristy;turistický,pro turisty
+tower;věž
+travel guide;průvodce
+travel programme;pořad o cestování
+window seat;sedadlo u okna

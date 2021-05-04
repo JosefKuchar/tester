@@ -1,0 +1,74 @@
+acceptable;přijatelný
+acting;herecký výkon
+action film;akční film
+agree;souhlasit
+animation;animace
+appropriate;vhodný
+assume;předpokládat,domnívat se
+certain;jistý,určitý
+characters;postavy
+chat show;diskuzní pořad
+comedy;komedie
+convincing;přesvědčivý
+co-operate;spolupracovat
+deny;popřít
+dependent;závislý
+dishonest;nečestný
+documentary;dokumentární film
+emphasise;zdůraznit
+ending;závěr
+fair;fér,spravedlivý
+fantasy film;fantastický film
+funny;vtipný,legrační
+game show;televizní soutěž
+go for sth;jet na
+gripping;poutavý
+honest;čestný,poctivý
+horror film;horor
+illegal;nelegální;protizákonný
+imaginative;nápaditý
+impatient;netrpělivý
+improve;zlepšit,vylepšit
+inappropriate;nevhodný
+increase;zvýšit
+independent;nezávislý
+invisible;neviditelný
+irresponsible;nezodpovědný
+keen on something;mít něco v oblibě
+lead;vést
+legal;legální
+likely;pravděpodobný
+moving;dojemný
+musical;muzikál
+new bulletin;přehled zpráv,zpravodaj
+participate;účastnit se
+patient;trpělivý
+period drama;dobové drama
+plot;zápletka
+prevent;předejít,zabránit
+provide;poskytnout
+reality show;reality show
+responsible;zodpovědný
+reveal;odhalit
+romantic comedy;romatická komedie
+scary;děsivý
+scenes;scény
+science fiction film;sci-fi film
+script;scénář
+sitcom;sitkom
+soap opera;telenovela
+soundtrack;zvukový záznam
+special effects;speciální efekty
+talent show;talentová show
+thriller;thriller
+unacceptable;nepřijatelný
+uncertain;nejistý
+unfair;nespravedlivý
+unlikely;nepravděpodobný
+unrealistic;nereálný
+unsurprising;nepřekvapivý
+violent;násilný
+visible;viditelný
+war film;válečný film
+weather forecast;předpověď počasí
+western;western

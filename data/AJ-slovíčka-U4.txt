@@ -1,0 +1,82 @@
+approach;přiblížit se
+avalanche;lavina
+billboard;billboard
+blow;foukat
+bus stop;autobusová zastávka
+climate change;změna klimatu
+close down;zavřít
+clouds;mraky
+cloudy;oblačno
+come up with;přijít s
+cut down;kácet
+die out;vyhynout
+drought;sucho
+earthquake;zemětřesení
+epidemic;epidemie
+famine;hladomor
+fire hydrant;požární hydrant
+flood;povodeň
+foggy;mlhavý,zamlžený
+forest fire;lesní požár
+fossil fuels;fosilní paliva
+frost;mráz
+frostbite;omrzlina
+frosty;mrazivý
+give off;uvolňovat,vylučovat
+give up;vzdát se
+global warming;globální oteplování
+go up;stoupat,zvyšovat
+greenhouse gases;skleníkové plyny
+hail;krupobití,padat kroupy
+hail storm;bouře s krupobitím
+head;směřovat,zamířit
+heat up;ohřát
+ice;led
+ice caps;ledovce v okolí pólů
+lamp post;sloup veřejného osvětlení
+land;přistát
+lightning;blesk
+live with;žít s
+look after;pečovat o,starat se o
+mist;mlha,opar
+misty;mlhavý,v oparu
+mudslide;sesuv bahna
+pavement;chodník
+pedestrian crossing;přechod pro chodce
+put something off;odložit něco,posunout
+rain;déšť,pršet
+rain shower;dešťová přeháňka
+raindrop;kapka deště
+rainforest;deštný prales
+rainy;deštivý
+reach;dosáhnout
+rely on;spoléhat se na
+renewable energy;obnovitelná energie
+road sign;silniční značka
+road works;práce na silnici
+run out;dojít,vyčerpat se
+sea level;hladina moře
+shine;svítit
+shop sign;vývěsní štít
+shower;přeháňka
+showery;s četnými přeháňkami
+snow;sníh,sněžit
+snowflake;sněhová vločka
+spin;točit se 
+storm;bouřka
+stormy;bouřlivý
+street corner;roh ulice
+sunny;slunečný
+sunshine;slunečný svit
+surface temperature;teplota na povrchu
+take off;vzlétnout
+thunder;hrom,hřmít
+thunderstorm;bouřka a hromy a blesky
+thundery;bouřlivý,bouřkový
+traffic light;semafor
+tsunami;tsunami
+use up;spotřebovat
+volcanic eruption; výbuch sopky
+wake up;probudit se
+windy;větrno,větrný
+

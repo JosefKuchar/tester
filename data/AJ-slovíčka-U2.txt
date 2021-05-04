@@ -1,0 +1,94 @@
+abseiling;slaňování
+accomplish;dosáhnout,dokončit
+accomplishment;výsledek,úspěch
+achieve;dosáhnout
+achievement;úspěch,výkon
+across;přes
+astonishing;úžasný,ohromný
+athletic;sportovní,atletický
+attempt;pokus,pokusit se
+awful;hrozný
+bhind;za
+beside;vedle
+boots;boty
+brave;statčný
+brilliant;výborný,brilantní
+cave;jeskyně
+cliff;útes
+complete;dokončit
+completion;dokončení
+deep;hluboký
+delicious;výborný,lahodný
+desert;poušť
+develop;rozvinout,vytvořit
+development;rozvoj
+dinghy;člun,loďka
+down;dolů
+dream;sen,snít
+employ;zaměstnat
+employment;zaměstnání
+entertain;bavit
+entertainment;zábava
+erupt;vybuchnout
+eruption;výbuch
+examination;kontrola
+examine;vyzkoušet,zkontrolovat
+experience;zkušenost,zažít
+exploration;průzkum
+explore;prozkoumat
+fantastic;fantastický
+filthy;velmi špinavý
+forest;les
+helmet;helma
+hill;kopec
+huge;obrovský
+icy;ledový
+imagination;představivost
+imagine;představit si
+impressive;úchvatný
+inside;uvnitř
+lake;jezero
+life jacket;záchranná vesta
+low;nízký
+motivate;motivovat
+motivation;motivace
+mountain;hora
+narrow;úzký
+near;blízko
+need;potřeba,potřebovat
+ocean;oceán
+paddle;pádlo
+pole;hůlka
+preparation;příprava
+relax;odpočinout si
+relaxation;odpočinek
+remote;odlehlý,vzdálený
+rescue;záchrana,zachránit
+risk;riziko,riskovat
+risky;riskantní
+river;řeka
+rocks;skály,velké kameny
+rocky;skalnatý
+rope;provaz,lano
+rucksack;batoh
+safety harness;sedací úvaz
+shallow;mělký
+shore;břeh
+spectacular;působivý,velkolepý
+starving;hladovějící
+steep;strmý,příkrý
+stream;potok
+strong;silný
+stunning;nádherný,omračující
+swimming trunks;pánské plavky
+tall;vysoký
+terrifying;strašidelný
+thrilling;napínavý,vzrušující
+through;skrz
+tiny;malinký,drobný
+tragic;tragický
+under;pod
+valley;údolí
+volcano;sopka
+waterfall;vodopád
+wide;široký

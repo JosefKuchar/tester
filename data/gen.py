@@ -1,4 +1,6 @@
-f = open('u1.txt', 'r', encoding='utf-8')
+import sys
+
+f = open(sys.argv[1], 'r', encoding='utf-8')
 
 for line in f.read().splitlines():
   split = line.split(';')
