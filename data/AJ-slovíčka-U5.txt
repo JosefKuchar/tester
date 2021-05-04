@@ -40,4 +40,3 @@ varied;různorodý
 video game developer;tvůrce video her
 waiter;číšník
 well-paid;dobře placený
-

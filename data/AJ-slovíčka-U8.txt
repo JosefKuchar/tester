@@ -82,4 +82,3 @@ vandalise;demolovat ničit
 vandalism;vandalismus
 water park;vodní park
 weekly;týdně
-

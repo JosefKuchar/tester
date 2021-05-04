@@ -62,7 +62,7 @@ shower;přeháňka
 showery;s četnými přeháňkami
 snow;sníh,sněžit
 snowflake;sněhová vločka
-spin;točit se 
+spin;točit se
 storm;bouřka
 stormy;bouřlivý
 street corner;roh ulice
@@ -79,4 +79,3 @@ use up;spotřebovat
 volcanic eruption; výbuch sopky
 wake up;probudit se
 windy;větrno,větrný
-
